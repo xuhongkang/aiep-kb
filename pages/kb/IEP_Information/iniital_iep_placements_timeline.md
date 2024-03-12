@@ -1,0 +1,2 @@
+# Iniital IEP Placements Timeline
+This timeline shows the steps and deadlines for when a student first starts getting special education services. It's a schedule for all the meetings, assessments, and decisions that need to happen at the beginning.

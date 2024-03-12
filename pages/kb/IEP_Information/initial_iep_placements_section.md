@@ -1,0 +1,2 @@
+# Initial IEP Placements Section
+This section outlines where and how the student will start receiving special education services. It details the setting and the type of help the student will get first.

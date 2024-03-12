@@ -1,0 +1,16 @@
+{
+  "index": "Introduction",
+  "quickstart": {
+    "title": "Quickstart: What's an IEP?",
+    "type": "page"
+  },
+  "digest": {
+    "title": "IEP Digest: What's in My IEP?",
+    "type": "page"
+  },
+  "kb": {
+    "title": "Knowledge Base: All You Need to Know, and More",
+    "type": "page"
+  }
+}
+  
