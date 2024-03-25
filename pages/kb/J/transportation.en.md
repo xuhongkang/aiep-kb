@@ -1,0 +1,3 @@
+# Transportation
+Transportation: Transportation is a service provided to students with disabilities as part of an Individualized Education Program (IEP) to ensure they can attend school. The transportation services may include buses equipped with wheelchair access, specialized vehicles, or even reimbursement for parents who drive their children to school. The goal is to make sure that students with disabilities have safe and reliable transportation to and from school to support their access to education.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

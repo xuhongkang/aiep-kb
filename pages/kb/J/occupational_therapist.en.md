@@ -1,0 +1,3 @@
+# Occupational Therapist
+Occupational Therapist: An Occupational Therapist is a trained professional who helps students develop the skills needed for daily activities, such as getting dressed, writing, and using tools in school. They work with students who have physical, sensory, or cognitive challenges to improve their independence and ability to participate in school activities. Occupational therapists may suggest adaptations, tools, or strategies to help students succeed in the classroom and beyond.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

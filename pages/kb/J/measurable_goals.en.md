@@ -1,0 +1,3 @@
+# Measurable Goals
+Measurable Goals: Measurable goals are specific, achievable objectives that can be clearly defined and tracked to monitor a student's progress. These goals are set in an Individualized Education Program (IEP) to address the unique needs of a student receiving special education services. By measuring the student's progress towards these goals, educators can assess the effectiveness of interventions and make any necessary adjustments to support the student's learning and development.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

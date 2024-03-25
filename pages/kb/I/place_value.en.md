@@ -1,0 +1,3 @@
+# Place Value
+Place Value: Place value is the value represented by a digit in a number, based on its position within the number. Each digit has a place value, with the rightmost position representing ones, the next position representing tens, then hundreds, thousands, and so on. Understanding place value helps in reading and writing numbers accurately and performing mathematical operations efficiently.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

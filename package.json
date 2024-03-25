@@ -11,7 +11,7 @@
   "dependencies": {
     "@datastax/astra-db-ts": "^0.1.4",
     "ai": "^3.0.12",
-    "next": "^13.0.6",
+    "next": "13.4.19",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "openai": "^4.29.1",

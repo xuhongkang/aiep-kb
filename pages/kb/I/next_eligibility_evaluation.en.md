@@ -1,0 +1,3 @@
+# Next Eligibility Evaluation
+Next Eligibility Evaluation: Next Eligibility Evaluation refers to the process of determining if a student continues to qualify for special education services. It typically involves a review of the student's progress, assessments, and input from parents and teachers. This evaluation helps decide if the student still needs an Individualized Education Program (IEP) or if any changes need to be made to better support the student's needs.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)
