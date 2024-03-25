@@ -1,3 +1,0 @@
-# Meeting Agenda Items
-Meeting Agenda Items: Meeting Agenda Items are the topics and issues that will be discussed during an Individualized Education Program (IEP) meeting. These items usually include reviewing the student's progress, setting goals for the upcoming year, discussing any changes needed to support the student's education, and addressing any concerns or issues that the parents or teachers may have. The agenda helps keep the meeting organized and ensures that all important topics are covered.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

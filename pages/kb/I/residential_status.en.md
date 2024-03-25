@@ -1,3 +1,0 @@
-# Residential Status
-Residential Status: Residential status refers to the type of housing arrangement that a student has. It indicates whether a student lives at home with their family, in a residential facility, or in any other housing situation. Understanding a student's residential status is important in creating an Individualized Education Program (IEP) as it can impact the support and services that may be needed to help the student succeed in an academic setting.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

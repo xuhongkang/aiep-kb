@@ -1,3 +1,0 @@
-# Present Levels Of Performance
-Present Levels Of Performance: Present Levels of Performance (PLOP) are a key component of Individualized Education Programs (IEPs). PLOP describes your child's abilities and challenges in various areas like academics, social skills, behavior, and communication. It outlines where your child is currently functioning and helps set goals for their education. Teachers assess PLOP through testing, observations, and evaluations to tailor a plan that meets your child's unique needs.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

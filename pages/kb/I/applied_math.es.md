@@ -1,3 +1,0 @@
-# Matemática Aplicada
-Matemática Aplicada: La matemática aplicada es el uso práctico de conceptos y teorías matemáticas en situaciones del mundo real, como la ingeniería, los negocios y la ciencia. Implica tomar ideas matemáticas abstractas y usarlas para resolver problemas concretos o hacer predicciones. Las matemáticas aplicadas son esenciales para resolver muchos problemas cotidianos y nos ayudan a comprender y mejorar los sistemas y procesos en varios campos.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

@@ -1,3 +1,0 @@
-# Units/Credits Completed
-Units/Credits Completed: Units/Credits Completed refer to the academic credits a student has successfully earned through completing courses or units of study. These credits are typically required for graduation and are often used to track a student's progress towards their educational goals. Each course completed successfully earns the student a certain number of credits, and accumulating a specific number of credits in various subject areas is necessary to meet graduation requirements.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

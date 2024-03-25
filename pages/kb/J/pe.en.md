@@ -1,3 +1,0 @@
-# Pe
-Pe: PE in the context of an Individualized Education Program (IEP) stands for Physical Education. Physical Education is a class that focuses on physical fitness, health, and overall well-being through various activities and exercises. Including PE in an IEP means that the student will have specific goals, accommodations, and modifications outlined to support their participation in physical education classes, ensuring that they are able to engage in activities that promote physical health and development.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)
