@@ -1,0 +1,3 @@
+# Visual Support
+Visual Support: Visual supports are tools or aids that use visual information to help students with understanding and following instructions. These can include visual schedules, charts, pictures, or diagrams to assist students in communicating, organizing tasks, or recognizing feelings. Visual supports are often used in Individualized Education Programs (IEPs) for students with special needs to enhance their learning experience and help them achieve academic success.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

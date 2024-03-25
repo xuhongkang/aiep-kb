@@ -1,0 +1,3 @@
+# Statewide Student Identifier (Ssid)
+Statewide Student Identifier (Ssid): A Statewide Student Identifier (SSID) is a unique number or code assigned to each student by the state education agency. It helps schools and education agencies track the progress and performance of individual students over time without using personal information. The SSID ensures that student data is accurate, secure, and easily accessible for educational planning and assessment purposes.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

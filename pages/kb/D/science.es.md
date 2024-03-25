@@ -1,0 +1,3 @@
+# Ciencia
+Ciencia: La ciencia es el estudio del mundo natural a través de la observación y los experimentos. Nos ayuda a entender cómo funcionan las cosas, por qué se comportan de la manera en que lo hacen y las leyes que rigen el universo. En la escuela, los estudiantes aprenden diferentes ramas de la ciencia, como la biología, la química y la física, para explorar el mundo que los rodea y desarrollar habilidades de pensamiento crítico y resolución de problemas.
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

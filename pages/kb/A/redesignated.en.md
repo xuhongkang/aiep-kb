@@ -1,0 +1,3 @@
+# Redesignated
+Redesignated: Redesignated refers to a student who was previously identified as having special education needs, such as a learning disability, but has demonstrated significant progress and no longer requires special education services. This process involves a team of professionals, including parents, teachers, and specialists, reviewing the student's progress and determining that the student can succeed in a general education setting without additional support.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

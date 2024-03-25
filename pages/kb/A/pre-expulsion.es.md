@@ -1,0 +1,3 @@
+# Antes De La Expulsión
+Antes De La Expulsión: La preexpulsión se refiere a los procedimientos e intervenciones establecidos por las escuelas antes de considerar la expulsión de un estudiante. Estos procedimientos tienen como objetivo abordar los problemas de comportamiento y ayudar al estudiante a encontrar formas de tener éxito en la escuela sin recurrir a la expulsión. Pueden incluir reuniones con las autoridades escolares, planes de conducta, asesoramiento u otros servicios de apoyo para ayudar al estudiante a mejorar su comportamiento y evitar la expulsión.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,0 +1,11 @@
+{
+    "index": "Introducción",
+    "quickstart": {
+      "title": "Inicio rápido: ¿Qué es un IEP?",
+      "type": "page"
+    },
+    "kb": {
+      "title": "Base de Conocimiento: Todo lo que Necesitas Saber, y Más",
+      "type": "page"
+    }
+  }

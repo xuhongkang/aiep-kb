@@ -1,0 +1,3 @@
+# Physical Fitness Test
+Physical Fitness Test: A Physical Fitness Test is an assessment that measures a student's physical abilities and overall health. This test typically includes exercises like running, push-ups, sit-ups, and flexibility tests. Schools may use these tests to monitor students' fitness levels, identify areas for improvement, and promote healthy habits. The results of the test can help educators and parents develop strategies to support the student's physical well-being.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

@@ -1,0 +1,3 @@
+# Con Modificaciones
+Con Modificaciones: Con las modificaciones, se hacen cambios en lo que se espera que el estudiante aprenda o demuestre. Esto podría consistir en ajustes en el plan de estudios, en las tareas, en los métodos de evaluación o en el entorno en el que se lleva a cabo el aprendizaje. Estas modificaciones ayudan a los estudiantes con necesidades especiales a acceder al material y a interactuar con él de una manera que se adapte a sus habilidades y estilos de aprendizaje individuales.
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

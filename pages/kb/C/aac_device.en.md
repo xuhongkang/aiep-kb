@@ -1,0 +1,3 @@
+# Aac Device
+Aac Device: An AAC (Augmentative and Alternative Communication) device is a tool that assists individuals with communication difficulties. It can be used to help people who have challenges speaking or writing to express themselves. AAC devices come in various forms, such as picture boards, speech-generating devices, and communication apps. These tools enable users to communicate their needs, thoughts, and feelings effectively. With the help of an AAC device, individuals can participate more fully in conversations, express their ideas, and engage in social interactions.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

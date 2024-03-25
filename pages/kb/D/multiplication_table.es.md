@@ -1,0 +1,3 @@
+# Tabla De Multiplicación
+Tabla De Multiplicación: Una tabla de multiplicar es una cuadrícula que ayuda a los estudiantes a aprender y memorizar las tablas de multiplicar. Es una tabla con filas y columnas que muestran los productos de dos números. Al usar una tabla de multiplicar, los estudiantes pueden buscar rápidamente la respuesta a cualquier problema de multiplicación. Es una herramienta valiosa para practicar y dominar las habilidades de multiplicación.
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

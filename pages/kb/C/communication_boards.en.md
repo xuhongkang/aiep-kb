@@ -1,0 +1,3 @@
+# Communication Boards
+Communication Boards: Communication boards are visual tools used to help individuals with communication difficulties express their thoughts, needs, and desires. These boards typically consist of pictures, symbols, or words that the individual can point to in order to communicate. Communication boards are often used as part of an Individualized Education Program (IEP) for students who have trouble speaking or understanding language. By using these boards, students can effectively communicate with others and participate more fully in classroom activities.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

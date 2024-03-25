@@ -1,0 +1,3 @@
+# Enseñe Relaciones
+Enseñe Relaciones: Enseñar relaciones se refiere a la inclusión de habilidades y estrategias sociales para mejorar la capacidad del estudiante de construir y mantener conexiones positivas con los demás. Esto incluye la enseñanza de habilidades de comunicación, resolución de conflictos, empatía y comprensión de los límites. Desarrollar relaciones docentes dentro de un programa educativo individualizado (IEP) ayuda a los estudiantes a interactuar eficazmente con los maestros, compañeros de clase y compañeros, fomentando un entorno de aprendizaje inclusivo y de apoyo.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

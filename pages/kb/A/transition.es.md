@@ -1,0 +1,3 @@
+# Transición
+Transición: La transición se refiere al proceso de preparar a los estudiantes con discapacidades para la vida después de la escuela secundaria. Este proceso implica establecer metas, identificar las habilidades necesarias y crear un plan para ayudar al estudiante a hacer una transición sin problemas a la educación superior, el empleo o la vida independiente. La planificación de la transición es una parte crucial del Programa de Educación Individualizada (IEP) para estudiantes de secundaria y preparatoria con discapacidades.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

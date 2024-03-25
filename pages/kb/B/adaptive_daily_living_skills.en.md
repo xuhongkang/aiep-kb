@@ -1,0 +1,3 @@
+# Adaptive/Daily Living Skills
+Adaptive/Daily Living Skills: Adaptive/Daily Living Skills refer to the essential abilities that help individuals independently take care of themselves and manage daily tasks. These skills include personal hygiene, dressing appropriately, preparing meals, managing money, using transportation, and engaging in social interactions. When included in an Individualized Education Program (IEP), goals are set to help the student improve and develop these life skills to function effectively in different environments.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,0 +1,3 @@
+# Vocacional
+Vocacional: La vocacional se refiere a las habilidades, la capacitación o la educación relacionadas con trabajos o carreras específicos. En el contexto de los programas educativos individualizados (IEP), el término «vocacional» se usa para planificar y brindar apoyo especializado a los estudiantes para que desarrollen habilidades que los ayudarán a tener éxito en la fuerza laboral. Esto puede incluir evaluaciones profesionales, capacitación laboral, pasantías y otras actividades destinadas a preparar a los estudiantes para futuras oportunidades de empleo.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

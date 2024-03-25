@@ -1,0 +1,3 @@
+# Iconos De Imagen
+Iconos De Imagen: Los iconos con imágenes son símbolos visuales que representan palabras o ideas, lo que facilita la comprensión de la información a las personas, especialmente a las que tienen problemas de comunicación. Estos íconos se utilizan con frecuencia en las escuelas para ayudar a los estudiantes que tienen problemas para leer o expresarse verbalmente. Al usar íconos con imágenes, los educadores pueden mejorar la comunicación, la comprensión y la independencia de los estudiantes en diversos entornos.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,0 +1,3 @@
+# Elpac
+Elpac: The English Language Proficiency Assessments for California (ELPAC) is a test that helps determine how well students can read, write, listen, and speak English. It assesses English language proficiency for English learners in California schools. The results of the ELPAC guide educators in providing appropriate support and services to help students improve their English skills and succeed academically.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

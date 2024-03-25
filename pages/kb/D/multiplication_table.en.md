@@ -1,0 +1,3 @@
+# Multiplication Table
+Multiplication Table: A multiplication table is a grid that helps students learn and memorize multiplication facts. It is a chart with rows and columns that display the products of two numbers. By using a multiplication table, students can quickly look up the answer to any multiplication problem. It is a valuable tool for practicing and mastering multiplication skills.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

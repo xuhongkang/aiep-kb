@@ -1,0 +1,3 @@
+# Transition
+Transition: Transition refers to the process of preparing students with disabilities for life after high school. This process involves setting goals, identifying necessary skills, and creating a plan to help the student transition smoothly into further education, employment, or independent living. Transition planning is a crucial part of the Individualized Education Program (IEP) for middle and high school students with disabilities.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,0 +1,3 @@
+# Ethnicity
+Ethnicity: Ethnicity refers to a group of people who share common cultural characteristics such as language, religion, traditions, and history. It is tied to a person's identity and can include factors like race, nationality, and ancestry. Understanding a student's ethnicity can be important in creating an Individualized Education Program (IEP) as it can influence educational goals, strategies, and support services tailored to meet the student's unique needs and background.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

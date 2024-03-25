@@ -1,0 +1,3 @@
+# Program Accommodations
+Program Accommodations: Program accommodations are changes made to the way a student learns or is tested to help them succeed in school. These accommodations can include things like extra time on tests, separate testing areas, or visual aids to help with learning. These changes are written into a student's Individualized Education Program (IEP) to ensure they receive the support they need to reach their full potential.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

@@ -1,0 +1,3 @@
+# Provide Definitions
+Provide Definitions: An Individualized Education Program (IEP) is a personalized plan created for students with disabilities to ensure they receive appropriate education and special services. It includes goals, accommodations, and support services needed for the student to succeed in school. The IEP is developed by a team that includes parents, teachers, and specialists, and is reviewed regularly to track progress and make any necessary adjustments.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

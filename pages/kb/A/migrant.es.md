@@ -1,0 +1,3 @@
+# Migrante
+Migrante: Un migrante es una persona que se traslada de un lugar a otro, a menudo en busca de trabajo, mejores condiciones de vida u otras oportunidades. Estos movimientos pueden producirse dentro de un país o a través de las fronteras. Los migrantes pueden enfrentarse a desafíos como las barreras lingüísticas, las diferencias culturales y los problemas legales en sus nuevos lugares de destino. Es importante que los gobiernos y las organizaciones apoyen a los migrantes y garanticen la protección de sus derechos y bienestar.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

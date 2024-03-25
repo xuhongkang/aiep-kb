@@ -1,0 +1,3 @@
+# Pre-Expulsion
+Pre-Expulsion: Pre-expulsion refers to the procedures and interventions put in place by schools before expulsion is considered for a student. These procedures aim to address behavioral issues and support the student in finding ways to succeed in school without resorting to expulsion. They may include meetings with school officials, behavior plans, counseling, or other support services to help the student improve their behavior and avoid expulsion.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

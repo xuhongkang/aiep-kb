@@ -1,0 +1,3 @@
+# Rationale
+Rationale: The rationale in an Individualized Education Program (IEP) is the justification or reasoning behind the decisions made for a student with special needs. It outlines why specific goals, services, accommodations, or modifications are included in the child's education plan. Rationale ensures that the individualized needs of the student are addressed and that the interventions chosen are based on evidence and the student's strengths and weaknesses.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

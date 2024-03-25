@@ -1,0 +1,3 @@
+# Prueba De Desarrollo Del Idioma Inglés
+Prueba De Desarrollo Del Idioma Inglés: Una prueba de desarrollo del idioma inglés evalúa el dominio del idioma inglés de los estudiantes, especialmente para aquellos que no son hablantes nativos de inglés. Evalúa las habilidades de escuchar, hablar, leer y escribir para determinar las áreas que necesitan mejoras. La prueba ayuda a los educadores a comprender las necesidades lingüísticas de los estudiantes y proporciona información valiosa para adaptar la instrucción y el apoyo de manera adecuada.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

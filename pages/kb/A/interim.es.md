@@ -1,0 +1,3 @@
+# Provisional
+Provisional: Una medida provisional es una medida temporal o intermedia que se pone en marcha hasta que se tome una solución o decisión permanente. En el contexto de un programa educativo individualizado (IEP), una medida provisional podría referirse a un plan o adaptación temporal que se implementa mientras el equipo del IEP recopila más información, revisa el progreso o espera a que finalicen las evaluaciones. La medida provisional garantiza que se aborden las necesidades del estudiante durante este período de transición.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

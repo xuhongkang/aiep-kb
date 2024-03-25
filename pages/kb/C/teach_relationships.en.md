@@ -1,0 +1,3 @@
+# Teach Relationships
+Teach Relationships: Teach relationships refers to the inclusion of social skills and strategies to enhance a student's ability to build and maintain positive connections with others. This includes teaching communication skills, conflict resolution, empathy, and understanding boundaries. Developing teach relationships within an Individualized Education Program (IEP) helps students interact effectively with teachers, classmates, and peers, fostering a supportive and inclusive learning environment.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

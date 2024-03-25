@@ -1,0 +1,3 @@
+# Services
+Services: Services refer to the specialized support and resources provided to students with individualized needs as outlined in their Individualized Education Program (IEP). These services can include accommodations, modifications, therapies, and other interventions tailored to help a student succeed academically and functionally in a school setting. Services are determined based on the student's unique strengths and challenges, and are crucial in ensuring their educational needs are met.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

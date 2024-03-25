@@ -1,0 +1,3 @@
+# Speech Or Language Impairment (Sli)
+Speech Or Language Impairment (Sli): A speech or language impairment (SLI) refers to difficulties in communication, including speaking, listening, and understanding language. Children with SLI may struggle to form words correctly, have trouble following directions, or find it hard to express their thoughts verbally. These impairments can affect a child's academic performance and social interactions. Speech therapy is often used to help individuals with SLI improve their communication skills and reach their full potential.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

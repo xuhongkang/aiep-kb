@@ -1,0 +1,3 @@
+# Provider
+Provider: A provider in the context of an Individualized Education Program (IEP) refers to professionals or specialists who offer services to support a student's educational needs. These providers could include special education teachers, speech therapists, occupational therapists, and counselors among others. They work collaboratively with the student, parents, and educators to implement the goals and accommodations outlined in the IEP to help the student succeed in their educational journey.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

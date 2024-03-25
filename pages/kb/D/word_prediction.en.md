@@ -1,0 +1,3 @@
+# Word Prediction
+Word Prediction: Word prediction is a feature on some devices that suggests words as you type to help speed up writing and improve accuracy. It can be especially helpful for individuals with learning or motor disabilities. The feature predicts words based on commonly used phrases or patterns in your writing. By selecting the suggested words, you can complete your sentences more quickly and with fewer errors.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

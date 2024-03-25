@@ -1,0 +1,3 @@
+# Integrated Eld
+Integrated Eld: Integrated ELD stands for Integrated English Language Development. It is a way of teaching English language skills to students while they are learning other subjects like math, science, or social studies. This approach helps students practice and improve their English language abilities in real-world contexts, making their learning more meaningful and relevant. Integrated ELD allows students to learn academic content and language skills simultaneously, supporting their overall language development and academic success.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

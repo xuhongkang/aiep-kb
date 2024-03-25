@@ -1,0 +1,3 @@
+# Aclaración Oral
+Aclaración Oral: La aclaración oral es cuando la información se explica verbalmente en lugar de por escrito. Puede ayudar a los estudiantes a comprender mejor los conceptos al hacer que un maestro o personal de apoyo los explique en voz alta. Esto puede ser particularmente útil para los estudiantes que pueden tener dificultades para leer o para procesar la información escrita. La aclaración oral se utiliza a menudo en los entornos educativos como parte de las adaptaciones para los estudiantes con diversas necesidades de aprendizaje.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

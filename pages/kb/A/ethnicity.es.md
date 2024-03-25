@@ -1,0 +1,3 @@
+# Etnia
+Etnia: La etnia se refiere a un grupo de personas que comparten características culturales comunes, como el idioma, la religión, las tradiciones y la historia. Está vinculado a la identidad de una persona y puede incluir factores como la raza, la nacionalidad y la ascendencia. Comprender el origen étnico de un estudiante puede ser importante para crear un programa educativo individualizado (IEP), ya que puede influir en las metas, las estrategias y los servicios de apoyo educativos diseñados para satisfacer las necesidades y los antecedentes únicos del estudiante.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

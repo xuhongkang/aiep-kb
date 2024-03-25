@@ -1,0 +1,3 @@
+# Fonología
+Fonología: La fonología es el estudio de cómo funcionan los sonidos en los idiomas. Se centra en los sonidos específicos que se usan en un idioma, cómo están organizados y cómo pueden cambiar los significados. La fonología nos ayuda a entender los patrones de los sonidos de las palabras y cómo se utilizan para crear significado en el habla. Es un aspecto importante del desarrollo del lenguaje y puede afectar la capacidad del niño para pronunciar las palabras correctamente y comprender el lenguaje hablado.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

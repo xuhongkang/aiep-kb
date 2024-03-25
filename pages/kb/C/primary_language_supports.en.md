@@ -1,0 +1,3 @@
+# Primary Language Supports
+Primary Language Supports: Primary language supports refer to the strategies and resources used to help students whose primary language is not English. These supports aim to bridge the language gap, making it easier for students to access and understand the material being taught. This can include providing bilingual materials, using visuals and gestures, or assigning a buddy to help with translations. By incorporating primary language supports in an Individualized Education Program, educators can better cater to the diverse needs of English language learners.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

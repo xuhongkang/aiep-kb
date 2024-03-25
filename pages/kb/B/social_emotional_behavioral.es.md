@@ -1,0 +1,3 @@
+# Social/Emocional/Conductual
+Social/Emocional/Conductual: El término «socioemocional/conductual» se refiere a los aspectos sociales, emocionales y conductuales del desarrollo y el bienestar de un niño. Esto incluye su capacidad para manejar las emociones, construir relaciones y comportarse de manera apropiada en diferentes situaciones. Para los niños que tienen un programa educativo individualizado (IEP), abordar las necesidades sociales, emocionales y conductuales es un componente importante para ayudarlos a tener éxito en la escuela y en la vida.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

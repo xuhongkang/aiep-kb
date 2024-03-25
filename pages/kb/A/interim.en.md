@@ -1,0 +1,3 @@
+# Interim
+Interim: An interim is a temporary or in-between measure that is put in place until a permanent solution or decision is made. In the context of an Individualized Education Program (IEP), an interim could refer to a temporary plan or accommodation that is implemented while the IEP team gathers more information, reviews progress, or waits for assessments to be completed. The interim measure ensures that the student's needs are being addressed during this transitional period.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

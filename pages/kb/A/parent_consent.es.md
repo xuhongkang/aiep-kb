@@ -1,0 +1,3 @@
+# Consentimiento De Los Padres
+Consentimiento De Los Padres: El consentimiento de los padres se refiere al acuerdo otorgado por un padre o tutor para que su hijo reciba servicios de educación especial a través de un Programa de Educación Individualizado (IEP). Es importante que los padres den su consentimiento para las evaluaciones, el desarrollo del IEP y cualquier cambio que se haga en el IEP. Esto garantiza que los padres participen activamente en el proceso de toma de decisiones con respecto a las necesidades educativas y de apoyo de sus hijos.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

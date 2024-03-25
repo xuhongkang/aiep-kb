@@ -1,0 +1,3 @@
+# Tablet
+Tablet: A tablet is a portable electronic device with a flat touch-sensitive screen that can display images, videos, and text. It often connects to the internet and allows users to browse the web, send emails, play games, and run various apps. Tablets are commonly used for educational purposes in schools as they provide a more interactive and engaging way of learning.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

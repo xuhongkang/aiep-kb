@@ -1,0 +1,3 @@
+# Raza
+Raza: La raza se refiere a las características físicas de una persona, como el color de la piel, la textura del cabello y los rasgos faciales, que a menudo se utilizan para clasificar a grupos de personas. La raza no se basa en diferencias biológicas, sino que es una construcción social que se ha utilizado para dividir a las personas. Comprender la raza es importante en la educación para garantizar que todos los estudiantes reciban un trato justo y tengan acceso a los recursos que necesitan para tener éxito.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

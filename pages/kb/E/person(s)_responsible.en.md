@@ -1,0 +1,3 @@
+# Person(S) Responsible
+Person(S) Responsible: Person(s) Responsible in an Individualized Education Program (IEP) refers to individuals who are accountable for implementing and monitoring the plan. This can include parents, teachers, special education staff, and other professionals involved in the child's education. These individuals work together to ensure that the IEP goals are being met and make any necessary adjustments to support the student's academic and developmental progress.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

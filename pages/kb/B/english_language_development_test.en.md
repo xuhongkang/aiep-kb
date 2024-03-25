@@ -1,0 +1,3 @@
+# English Language Development Test
+English Language Development Test: An English Language Development Test assesses students' proficiency in the English language, especially for those who are not native English speakers. It evaluates listening, speaking, reading, and writing skills to determine areas needing improvement. The test helps educators understand students' language needs and provides valuable information to tailor instruction and support appropriately.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

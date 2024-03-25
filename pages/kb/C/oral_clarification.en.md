@@ -1,0 +1,3 @@
+# Oral Clarification
+Oral Clarification: Oral clarification is when information is explained verbally rather than in written form. It can help students better understand concepts by having them explained aloud by a teacher or support staff. This can be particularly helpful for students who may struggle with reading or have difficulty processing written information. Oral clarification is often used in education settings as part of providing accommodations for students with diverse learning needs.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

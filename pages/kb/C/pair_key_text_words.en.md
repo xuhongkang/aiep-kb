@@ -1,0 +1,3 @@
+# Pair Key Text/Words
+Pair Key Text/Words: In an Individualized Education Program (IEP), the term 'goals and objectives' refers to specific, measurable targets set for a child with special needs to achieve within a certain timeframe. These goals and objectives are tailored to the child's unique needs and abilities, and they help track progress and determine the effectiveness of the education plan.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

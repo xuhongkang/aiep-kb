@@ -6,10 +6,20 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/xuhongkang/aiep-kb',
   },
-  docsRepositoryBase: 'https://github.com/xuhongkang/aiep-kb',
-  footer: {
-    text: 'AI-EP Knowledge Base',
+  search: {
+    placeholder: 'Search/Buscar...',
   },
+  i18n: [
+    { locale: 'en', text: 'English' },
+    { locale: 'es', text: 'Español' }
+  ],
+  editLink: {
+    component: null
+
+  },
+  feedback: {
+    content: null
+  }
 }
 
 export default config

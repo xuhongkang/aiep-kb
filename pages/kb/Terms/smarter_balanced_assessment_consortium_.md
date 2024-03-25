@@ -1,2 +1,0 @@
-# Smarter Balanced Assessment Consortium 
-This is a group that creates tests to measure how well students understand English and math. The tests are designed to check if students are learning what they should be in school.

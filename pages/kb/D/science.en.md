@@ -1,0 +1,3 @@
+# Science
+Science: Science is the study of the natural world through observation and experiments. It helps us understand how things work, why they behave the way they do, and the laws that govern the universe. In school, students learn different branches of science like biology, chemistry, and physics to explore the world around them and develop critical thinking and problem-solving skills.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

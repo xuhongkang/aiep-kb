@@ -1,0 +1,3 @@
+# Migrant
+Migrant: A migrant is a person who moves from one place to another, often in search of work, better living conditions, or other opportunities. These movements can be within a country or across borders. Migrants may face challenges such as language barriers, cultural differences, and legal issues in their new locations. It's important for governments and organizations to support migrants and ensure their rights and well-being are protected.
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

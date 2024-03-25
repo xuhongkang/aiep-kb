@@ -1,0 +1,3 @@
+# Salud
+Salud: La salud se refiere al bienestar general de un individuo, incluidos los aspectos físicos, mentales y emocionales. Implica tomar decisiones saludables, como comer alimentos nutritivos, mantenerse activo, dormir lo suficiente y controlar el estrés. La buena salud permite a las personas funcionar de la mejor manera y disfrutar de la vida al máximo. Es importante que los estudiantes mantengan una buena salud para apoyar sus habilidades de aprendizaje y su desarrollo general.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,0 +1,3 @@
+# Entender Lo Fundamental
+Entender Lo Fundamental: La comprensión fundamental se refiere a identificar y abordar las habilidades y conocimientos fundamentales que un estudiante necesita para tener éxito en su educación. Esto incluye centrarse en conceptos básicos como la lectura, la escritura y las matemáticas, así como en las habilidades sociales y emocionales. Al comprender qué habilidades fundamentales necesita un estudiante, los educadores pueden adaptar las intervenciones y el apoyo a través de un Programa de Educación Individualizado (IEP) para ayudar al estudiante a progresar en estas áreas.
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

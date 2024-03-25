@@ -1,2 +1,0 @@
-# primary disabilities
-The main learning or physical challenges a student might have that can affect their education. For example, this could be things like difficulty with reading (dyslexia) or trouble paying attention (ADHD).

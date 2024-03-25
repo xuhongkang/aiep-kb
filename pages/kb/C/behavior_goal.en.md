@@ -1,0 +1,3 @@
+# Behavior Goal
+Behavior Goal: A behavior goal in an Individualized Education Program (IEP) is a specific target set for a student to improve their behavior in a school setting. These goals are personalized based on the individual needs of the student and are aimed at addressing specific behaviors that may be hindering their learning or social interactions. By setting behavior goals, educators and parents work together to support the student in developing positive behaviors and achieving success in school.
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)
