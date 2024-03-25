@@ -1,3 +1,0 @@
-# English Proficiency Level
-English Proficiency Level: English Proficiency Level refers to a person's ability to understand, speak, read, and write in the English language. It is usually assessed based on skills such as grammar, vocabulary, pronunciation, and comprehension. Proficiency levels can range from beginner to advanced, and are often used to determine the appropriate level of support or instruction needed for individuals learning English as a second language.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)
