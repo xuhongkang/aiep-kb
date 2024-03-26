@@ -19,6 +19,9 @@ const config: DocsThemeConfig = {
   },
   feedback: {
     content: null
+  },
+  footer: {
+    component: null
   }
 }
 
