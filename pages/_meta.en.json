@@ -7,6 +7,12 @@
   "kb": {
     "title": "Knowledge Base: All You Need to Know, and More",
     "type": "page"
+  },
+  "IEP Digest": {
+    "title": "IEP Digest",
+    "type": "page",
+    "href": "https://aiep-frontend-dev-b4970e5b89bb.herokuapp.com/en/workspace",
+    "newWindow": true
   }
 }
   
