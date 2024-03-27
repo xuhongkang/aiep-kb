@@ -22,6 +22,10 @@ const config: DocsThemeConfig = {
   },
   footer: {
     component: null
+  },
+  sidebar: {
+    defaultMenuCollapseLevel: 1,
+    toggleButton: true
   }
 }
 
