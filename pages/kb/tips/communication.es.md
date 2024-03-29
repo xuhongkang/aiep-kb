@@ -1,0 +1,3 @@
+# Comunica Efectivamente a Tiempo
+
+Comunicación continua con el administrador del caso sobre el progreso del estudiante y tener un calendario que muestre el horario del estudiante, buenos administradores de casos crearán un horario semanal que muestra cuándo el estudiante está recibiendo sus servicios de educación especial, cuánto tiempo, si es uno a uno o si es en grupo, etc. En un mundo ideal, todos los profesores/administradores de casos deberían proporcionar esto, pero muchos de ellos no lo hacen. Tener un horario claro facilita que los padres entiendan los servicios proporcionados a sus estudiantes.

@@ -1,0 +1,3 @@
+# Prepárate para la Reunión
+
+Preparación para una reunión de IEP: tener algunas notas con las 5 cosas que hacer antes de una reunión de IEP, como: Solicitar todos los informes con anticipación a tu reunión de IEP, leer el IEP y los informes a fondo (especialmente las evaluaciones), tener un Administrador en la reunión, pedir que esté todo el equipo, todos los maestros, personal de apoyo, etc. Preparar preguntas y recomendaciones y asegurarse de que haya una agenda. Tener una hoja de lista de verificación antes de la reunión será una gran herramienta.

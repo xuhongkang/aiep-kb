@@ -1,0 +1,3 @@
+# Entiende Tu IEP
+
+Qué hacer cuando no estás de acuerdo con el IEP, incluso después de trabajar con el equipo del IEP, los padres pueden no estar de acuerdo con todo lo que está en el IEP de su hijo. Los padres deben saber que pueden rechazar el IEP y negociar cambios con el equipo del IEP, en SFUSD, por ejemplo, existe el departamento de ADR, un método para resolver desacuerdos utilizando técnicas para promover la comprensión, la comunicación abierta y llegar a soluciones satisfactorias a los conflictos.https://www.sfusd.edu/sped/adr

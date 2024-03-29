@@ -1,0 +1,3 @@
+# Understand Your IEP
+
+Understanding What’s in an IEP, understanding the document and what are the most important parts of this document, like Related services, accommodations, modifications, and service times. According to the IDEA, these related services and aids should be based on research and move the child toward meeting their annual goals. The services and accommodations should also help the student participate with other children with and without disabilities.

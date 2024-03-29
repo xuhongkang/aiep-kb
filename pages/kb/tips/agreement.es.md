@@ -1,0 +1,3 @@
+# No Temas Disentir
+
+Conocer tus derechos como padre de un niño con un IEP, además del paquete de Salvaguardias Procesales que recibe en cada reunión. Los padres deben saber que tienen la opción de traer a alguien con ellos, y no tiene que ser un defensor o abogado. Puedes traer a un amigo, miembro de la familia, pareja o cualquier persona que brinde apoyo. Tener un buen intérprete en la reunión; los padres deben saber que pueden expresar sus preocupaciones si el intérprete no está haciendo un buen trabajo en la reunión, también pueden obtener el nombre y presentar una queja.

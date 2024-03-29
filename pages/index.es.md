@@ -1,8 +1,8 @@
-# Welcome
+# Bienvenida
 
-Welcome to AIEP Beta 2.6 Knowledge Base Features Demo!
+¡Bienvenida a la demostración de características de la base de conocimientos de AIEP Beta 2.6!
 
-This is a preliminary solution POC populated with incomplete information.
-Although this is working in progress, it shows overall architecture and rough overview of the UI design.
+Esta es una prueba de concepto de solución preliminar poblada con información incompleta.
+Aunque este trabajo está en progreso, muestra la arquitectura general y una visión general aproximada del diseño de la interfaz de usuario.
 
-Get started by visiting the Knowledge Base! We're actively adding new content to the quick start and knowledge base.
+¡Comienza visitando la Base de Conocimientos! Estamos agregando activamente nuevo contenido al inicio rápido y a la base de conocimientos.

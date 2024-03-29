@@ -1,0 +1,3 @@
+# Prepare for the Meeting
+
+Prepare for an IEP meeting, have some notes with the 5 things to do before an IEP meeting like:  Request all the reports in advance of your IEP meeting, read the IEP and reports thoroughly (specially assessments), have an Administrator at the meeting, ask to have all the team there, all the teachers, support staff etc. Prepare questions and recommendations and make sure there is an agenda. Having a checklist sheet before the meeting will be a great tool. 

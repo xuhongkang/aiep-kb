@@ -1,0 +1,3 @@
+# Conoce Tus Derechos y Opciones
+
+Entender qué hay en un IEP, comprender el documento y cuáles son las partes más importantes de este documento, como los servicios relacionados, adaptaciones, modificaciones y tiempos de servicio. Según la IDEA, estos servicios relacionados y ayudas deben basarse en investigaciones y avanzar al niño hacia el cumplimiento de sus objetivos anuales. Los servicios y adaptaciones también deben ayudar al estudiante a participar con otros niños con y sin discapacidades.

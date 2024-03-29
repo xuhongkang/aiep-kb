@@ -1,0 +1,3 @@
+# Know Your Rights & Options
+
+Know your rights as the parent of a child with an IEP besides the Procedural Safeguards packet that is received at every meeting. Parents should know they  have the option of bringing someone with them, and it doesn’t have to be an advocate or attorney. You can bring a friend, family member, partner, or any person who provides support. Having a good interpreter at the meeting; parents should know that they can express their concerns if the interpreter is not doing a good job at the meeting, they can also get the name and file a complaint. 

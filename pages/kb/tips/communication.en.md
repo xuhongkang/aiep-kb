@@ -1,0 +1,3 @@
+# Communicate Effectively on Time
+
+Ongoing communication with the case manager about student progress and having a calendar that shows the student schedule, good case managers will create a weekly schedule that shows when the student is receiving their special ed services, how much time, if it is on a 1-1 or if it is in a group etc. In an ideal world all teachers/case managers should provide this, but many of them don’t. Having a clear schedule makes it easier for parents to understand about the services provided to their students.
