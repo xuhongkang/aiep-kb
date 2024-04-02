@@ -1,0 +1,4 @@
+# Decodificación
+Decodificación: Cuando hablamos de «decodificar» en un Programa de Educación Individualizado (IEP), nos referimos a ayudar a los estudiantes con discapacidades a entender la información de la manera que mejor les funcione. Por ejemplo, si un estudiante se comunica mediante el lenguaje de señas, un intérprete calificado puede ayudar a traducir el lenguaje hablado al lenguaje de señas para que el estudiante pueda entender. Esto también puede incluir la conversión de materiales escritos a formatos como el braille para estudiantes con discapacidades visuales. El objetivo es garantizar que los estudiantes tengan el apoyo que necesitan para aprender y tener éxito en la escuela.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2)

@@ -1,0 +1,4 @@
+# Enables Student to Be Involved/Progress in General Curriculum/State Standard
+Enables Student to Be Involved/Progress in General Curriculum/State Standard: Enables Student to Be Involved/Progress in General Curriculum/State Standards means making sure the student can learn and move forward in their regular school subjects and requirements just like other kids. It ensures that the student gets the help they need to do well in things like reading, math, and science, and can take part in tests alongside their classmates. If a student needs extra support, like different ways to take a test or specialized instruction, it will be included in their plan to help them succeed.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=47](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=47)

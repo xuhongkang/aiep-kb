@@ -1,0 +1,4 @@
+# Entorno menos restrictivo (LRE)
+Entorno menos restrictivo (LRE): El entorno menos restrictivo (LRE, por sus siglas en inglés) significa que los niños con discapacidades deben aprender con niños que no tienen discapacidades tanto como sea posible. Esto significa que deben asistir a clases regulares con ayuda adicional si la necesitan. La escuela tiene que asegurarse de que el estudiante pueda aprender bien en este entorno antes de considerar clases separadas. El objetivo es ayudar al estudiante a ser independiente y a tener acceso a otros niños de la escuela y, al mismo tiempo, recibir el apoyo que necesita.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=68](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=68)

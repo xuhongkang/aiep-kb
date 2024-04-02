@@ -1,0 +1,4 @@
+# Relationships Between Concepts
+Relationships Between Concepts: Relationships between concepts can help us understand how things are connected or related to each other. In an Individualized Education Plan (IEP), this means looking at how different factors like behavior, environmental changes, and replacement behaviors all work together to support a student's learning and growth. By identifying predictors of behavior, analyzing what supports those behaviors, and creating interventions and goals based on those findings, educators can help students succeed in a way that works best for them. It's like figuring out puzzle pieces that fit together to help a student thrive in school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=131](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=131)

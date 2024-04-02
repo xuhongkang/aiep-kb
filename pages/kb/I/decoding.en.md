@@ -1,3 +1,0 @@
-# Decoding
-Decoding: Decoding is the ability to understand and interpret written language by breaking down words into their individual sounds. It involves recognizing letter-sound relationships and blending these sounds together to read words. Decoding skills are crucial for reading fluency and comprehension. Students who struggle with decoding may have difficulties with spelling, reading accurately, and understanding the meaning of texts.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

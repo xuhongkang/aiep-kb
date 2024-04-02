@@ -1,0 +1,4 @@
+# Visuales
+Visuales: Los elementos visuales son dibujos, dibujos u otras imágenes que ayudan a las personas a entender mejor la información. Por ejemplo, si alguien tiene problemas de audición, es posible que necesite un intérprete de lenguaje de señas que le muestre las señas en lugar de hablar. O, si un estudiante tiene problemas para ver, es posible que necesite materiales en braille, que es un sistema de puntos en relieve para leer con los dedos. Los elementos visuales también pueden ayudar a los estudiantes a moverse de manera segura, por ejemplo, aprender a moverse por la escuela o el vecindario si tienen una discapacidad visual. Estas imágenes y herramientas se utilizan para garantizar que todos puedan aprender y entender las cosas de la manera que mejor les funcione.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=21](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=21)

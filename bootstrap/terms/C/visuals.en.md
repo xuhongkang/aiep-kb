@@ -1,0 +1,4 @@
+# Visuals
+Visuals: Visuals are pictures, drawings, or other images that help people understand information better. For example, if someone has trouble hearing, they might need a sign language interpreter to show them signs instead of speaking. Or, if a student has trouble seeing, they might need materials in Braille, which is a system of raised dots to read with their fingers. Visuals can also help students move around safely, like learning how to get around their school or neighborhood if they have a visual impairment. These pictures and tools are used to make sure everyone can learn and understand things in a way that works best for them.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=21](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=21)

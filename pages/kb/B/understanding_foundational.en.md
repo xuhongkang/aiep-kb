@@ -1,3 +1,0 @@
-# Understanding Foundational
-Understanding Foundational: Understanding foundational refers to identifying and addressing the fundamental skills and knowledge that a student needs to succeed in their education. This includes focusing on basic concepts like reading, writing, and math, as well as social and emotional skills. By understanding what foundational skills a student needs, educators can tailor interventions and support through an Individualized Education Program (IEP) to help the student make progress in these areas.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

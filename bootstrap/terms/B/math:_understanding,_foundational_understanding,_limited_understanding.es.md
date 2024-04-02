@@ -1,0 +1,4 @@
+# Matemáticas: comprensión, comprensión fundamental, comprensión limitada
+Matemáticas: comprensión, comprensión fundamental, comprensión limitada: En matemáticas, la comprensión significa conocer muy bien los conceptos matemáticos, la comprensión fundamental significa tener un buen conocimiento de los conceptos básicos y la comprensión limitada significa no saber mucho sobre matemáticas. Estos términos se usan para describir qué tan bien un estudiante conoce habilidades matemáticas como sumar, restar, multiplicar y dividir. Un plan educativo individualizado (IEP) puede ayudar a establecer metas para mejorar las habilidades matemáticas de un niño en función de su nivel actual de comprensión.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=43](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=43)

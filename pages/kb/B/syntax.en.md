@@ -1,3 +1,0 @@
-# Syntax
-Syntax: Syntax refers to the arrangement of words to create well-formed sentences in a language. It involves grammar rules, word order, punctuation, and sentence structure. Syntax is essential for clear communication and understanding in both spoken and written language. It helps to convey meaning accurately and effectively. Understanding syntax is important for developing strong language skills in writing and speaking.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

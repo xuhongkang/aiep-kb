@@ -1,0 +1,4 @@
+# Educación Física
+Educación Física: La educación física consiste en que los estudiantes participan en actividades que les ayudan a mover el cuerpo, como correr, saltar y practicar deportes. Puede formar parte de un programa educativo individualizado (IEP) en el que se elabora un plan especial para los estudiantes que necesitan ayuda adicional en la escuela. La fisioterapia se puede incluir si un estudiante tiene problemas con movimientos como la coordinación o el equilibrio. Esta terapia la realiza un terapeuta capacitado que ayuda a mejorar las habilidades motoras y la movilidad. El objetivo es asegurarse de que el estudiante pueda participar en actividades físicas y sentirse cómodo en su entorno.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=134](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=134)

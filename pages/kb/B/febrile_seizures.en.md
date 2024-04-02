@@ -1,3 +1,0 @@
-# Febrile Seizures
-Febrile Seizures: Febrile seizures are convulsions that can occur in young children when they have a high fever, often between the ages of 6 months to 5 years. These seizures are usually harmless and typically last for a few minutes. They may involve twitching or jerking of limbs and loss of consciousness. While febrile seizures can be scary to witness, they do not cause any long-term harm to the child. It's important to monitor the child's temperature and seek medical attention if the seizure lasts longer than 5 minutes or if it is accompanied by other concerning symptoms.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

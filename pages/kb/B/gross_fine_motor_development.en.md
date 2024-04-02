@@ -1,3 +1,0 @@
-# Gross/Fine Motor Development
-Gross/Fine Motor Development: Gross motor skills involve the use of large muscle groups for activities like running, jumping, and throwing, while fine motor skills use smaller muscles for tasks such as writing, drawing, and picking up small objects. Gross motor development is essential for physical activities and coordination, while fine motor development is crucial for tasks that require precision and dexterity. Both types of motor skills play a significant role in a child's overall development.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

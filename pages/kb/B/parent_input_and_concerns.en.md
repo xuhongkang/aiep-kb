@@ -1,3 +1,0 @@
-# Parent Input And Concerns
-Parent Input And Concerns: Parent input and concerns are crucial components of the Individualized Education Program (IEP) process. Parents have the right to provide valuable insights, share concerns, and actively participate in developing their child's IEP. Their input helps ensure that the plan addresses their child's unique needs, strengths, and challenges effectively. By expressing their thoughts, concerns, and preferences, parents help create a more comprehensive and tailored educational plan that fosters their child's success and growth.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

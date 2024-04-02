@@ -1,3 +1,0 @@
-# Applied Math
-Applied Math: Applied math is the practical use of mathematical concepts and theories in real-world situations, such as engineering, business, and science. It involves taking abstract mathematical ideas and using them to solve concrete problems or make predictions. Applied math is essential for solving many everyday problems and helps us understand and improve systems and processes in various fields.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

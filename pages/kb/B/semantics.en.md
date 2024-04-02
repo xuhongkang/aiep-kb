@@ -1,3 +1,0 @@
-# Semantics
-Semantics: Semantics is the study of meaning in language. It focuses on how words, phrases, and sentences convey different meanings and how people interpret and understand language. In linguistics, semantics examines the relationships between words and their meanings, as well as how language is used to convey ideas and information. Understanding semantics helps us communicate effectively by using words and language that accurately reflect our intended meanings.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,3 +1,0 @@
-# General Education Teacher
-General Education Teacher: A General Education Teacher is a certified teacher who provides instruction to students without disabilities in a regular classroom setting. In the context of an Individualized Education Program (IEP), the General Education Teacher plays a crucial role in implementing accommodations and modifications for students with disabilities. They work collaboratively with special education teachers and support staff to ensure that the student's unique needs are met.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

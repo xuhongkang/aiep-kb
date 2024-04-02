@@ -1,0 +1,4 @@
+# Communication Development: Date: 8/29/23, Progress on Goals, Recommendations
+Communication Development: Date: 8/29/23, Progress on Goals, Recommendations: In this report, they are talking about how well your child is doing with communication, like talking and listening, and other important skills like moving their body and managing their feelings. They also mention any medical needs your child has. The report will include progress on goals set for your child, any recommendations for the future, and who is responsible for helping your child reach those goals. It's like a plan to help your child do their best in school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=42](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=42)

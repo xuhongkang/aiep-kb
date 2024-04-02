@@ -1,3 +1,0 @@
-# Tableta
-Tableta: Una tableta es un dispositivo electrónico portátil con una pantalla plana sensible al tacto que puede mostrar imágenes, vídeos y texto. A menudo se conecta a Internet y permite a los usuarios navegar por la web, enviar correos electrónicos, jugar y ejecutar varias aplicaciones. Las tabletas se utilizan comúnmente con fines educativos en las escuelas, ya que proporcionan una forma de aprendizaje más interactiva y atractiva.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

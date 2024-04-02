@@ -1,3 +1,0 @@
-# Identificador Estatal De Estudiantes (Ssid)
-Identificador Estatal De Estudiantes (Ssid): Un identificador estudiantil estatal (SSID) es un número o código único que la agencia educativa estatal asigna a cada estudiante. Ayuda a las escuelas y agencias educativas a hacer un seguimiento del progreso y el rendimiento de los estudiantes individuales a lo largo del tiempo sin utilizar información personal. El SSID garantiza que los datos de los estudiantes sean precisos, seguros y de fácil acceso para fines de planificación y evaluación educativa.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,3 +1,0 @@
-# Iep Date
-Iep Date: IEP date refers to the specific date on which an Individualized Education Program (IEP) is developed or updated for a student with special needs. This date is important as it marks the beginning of the IEP cycle, outlining the goals, accommodations, services, and support the student will receive for the upcoming school year. It serves as a reference point for tracking progress, making revisions, and ensuring that the student's needs are being met effectively.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

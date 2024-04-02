@@ -1,0 +1,4 @@
+# Equipo o dispositivo de asistencia
+Equipo o dispositivo de asistencia: El «equipo o dispositivo de asistencia» es algo que ayuda a un estudiante con necesidades especiales a obtener mejores resultados en la escuela. Pueden ser herramientas o tecnología que faciliten el aprendizaje. Puede ser tan simple como usar texto en letra grande o tan avanzado como un dispositivo especial. Si un estudiante necesita equipo de asistencia, el equipo de la escuela decidirá qué herramientas o dispositivos específicos se necesitan y cómo se utilizarán. El objetivo es ayudar al estudiante a aprender y a tener un buen desempeño en la escuela.
+
+Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=18](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=18)

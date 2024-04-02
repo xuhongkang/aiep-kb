@@ -1,0 +1,4 @@
+# ELPAC alternativo sumativo
+ELPAC alternativo sumativo: Un ELPAC alternativo sumativo es un examen que ayuda a ver qué tan bien le va a un estudiante que está aprendiendo inglés en la escuela. Muestra si el estudiante está progresando o si necesita ayuda adicional. El examen puede incluir diferentes tipos de apoyo, como permitir que el estudiante responda de una manera diferente o eximirlo de algunas partes del examen. El equipo del estudiante decide si el examen es el más adecuado y si necesita ayuda especial durante el examen.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=0](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=0)

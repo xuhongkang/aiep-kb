@@ -1,0 +1,4 @@
+# Fecha del plan de evaluación
+Fecha del plan de evaluación: La fecha del plan de evaluación es el día específico en que se está llenando el formulario para evaluar a su hijo. Este formulario es importante porque ayuda a la escuela a decidir cómo evaluar las necesidades educativas de su hijo. La escuela debe proporcionarle este plan antes de comenzar cualquier evaluación y necesita su permiso para poder comenzar. La fecha de este formulario es crucial porque muestra cuándo comenzó oficialmente el proceso de evaluación. Por lo tanto, es como marcar en el calendario cuándo van las cosas para ayudar a su hijo en la escuela.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=11](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=11)

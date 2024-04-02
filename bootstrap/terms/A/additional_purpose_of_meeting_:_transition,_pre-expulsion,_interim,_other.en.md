@@ -1,0 +1,4 @@
+# Additional Purpose of Meeting (If Needed): Transition, Pre-Expulsion, Interim, Other
+Additional Purpose of Meeting (If Needed): Transition, Pre-Expulsion, Interim, Other: The "Additional Purpose of Meeting (If Needed)" section is asking for any extra reasons why you may be having a meeting about your child's education plan. Some possible reasons could include Transition Planning (talking about moving from one grade to another), Interim (a review when your child changes schools), or Possible Change of Placement/Services (discussing potential changes to the help your child gets at school). You can choose the option that best fits why you need to have this meeting about your child's education plan.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=11](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=11)

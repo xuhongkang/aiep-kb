@@ -1,3 +1,0 @@
-# Graphic Organizer
-Graphic Organizer: A graphic organizer is a visual tool that helps students organize and understand information. It uses shapes, lines, and labels to show relationships between concepts, making it easier to see patterns and remember key points. Graphic organizers can take many forms, such as charts, diagrams, timelines, or maps, and are commonly used in classrooms to support learning in various subjects. By using a graphic organizer, students can visually see how ideas are connected and better comprehend complex topics.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

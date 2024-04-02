@@ -1,0 +1,4 @@
+# SBAC con soportes designados integrados
+SBAC con soportes designados integrados: SBAC son las siglas de Smarter Balanced Assessment Consortium. Cuando dice «SBAC with Designated Supports Embedded», quiere decir que, para los estudiantes que puedan necesitar ayuda o herramientas adicionales para realizar los exámenes, estos soportes están integrados en el propio examen. Esto puede incluir cosas como el uso de dispositivos de asistencia, ayudas visuales o formas alternativas de responder a las preguntas. Estos apoyos están diseñados específicamente para ayudar a los estudiantes a dar lo mejor de sí mismos en el examen, incluso si tienen necesidades de aprendizaje únicas.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50)

@@ -1,0 +1,4 @@
+# Registros programados por correo electrónico
+Registros programados por correo electrónico: Las visitas programadas por correo electrónico son simplemente horarios regulares en los que una escuela envía correos electrónicos para mantenerlo actualizado sobre las reuniones importantes del Programa de Educación Individualizada (IEP) de su hijo. Estos correos electrónicos le informarán cuándo y dónde se llevarán a cabo las reuniones y quién asistirá. Es importante que respondas a estos correos electrónicos comprobando si puedes asistir a la reunión, firmarlo, tener citas y enviar el formulario a la escuela. Esto le ayuda a participar en la educación de su hijo y a asegurarse de que se satisfagan sus necesidades.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=10](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=10)

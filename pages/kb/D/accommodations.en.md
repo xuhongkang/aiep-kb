@@ -1,3 +1,0 @@
-# Accommodations
-Accommodations: Accommodations are changes made to how a student learns material or demonstrates knowledge to ensure they can access education. These changes do not alter what is being taught but modify how it is being taught or assessed. Accommodations can include extra time on tests, having instructions read aloud, or using assistive technology. These adjustments help students with disabilities work more effectively in the classroom and reach their full potential.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

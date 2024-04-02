@@ -1,0 +1,4 @@
+# Level of Consent: I Understand That My Child Is No Longer Eligible for Special Education
+Level of Consent: I Understand That My Child Is No Longer Eligible for Special Education: Level of Consent means that you understand and agree with the decision that your child is no longer eligible for special education. This decision may come after the initial provision of special education and related services, and if you, as the parent, choose to revoke consent for further services, the school cannot continue providing them without informing you first. This also means the school does not need to have a formal meeting or create a new plan for your child if you decide to stop special education services.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=71](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=71)

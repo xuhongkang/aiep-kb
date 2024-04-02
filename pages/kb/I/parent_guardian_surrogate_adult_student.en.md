@@ -1,3 +1,0 @@
-# Parent Guardian Surrogate Adult Student
-Parent Guardian Surrogate Adult Student: A Parent Guardian Surrogate Adult Student is someone who acts as a guardian or advocate for a student with special needs when their parent or legal guardian is unavailable or unable to participate in the Individualized Education Program (IEP) process. This individual works closely with the school and educators to ensure the student's needs are met and that they receive appropriate support and services as outlined in their IEP.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

@@ -1,3 +1,0 @@
-# Ssn# (Número De Seguro Social)
-Ssn# (Número De Seguro Social): Un número de seguro social (SSN #) es un número único de nueve dígitos que la Administración del Seguro Social asigna a las personas con fines fiscales y de identificación. Se usa para hacer un seguimiento de los ingresos de los beneficios del Seguro Social y otros programas gubernamentales. Es posible que su hijo deba proporcionar su número de SSN al solicitar un Programa de Educación Individualizado (IEP) para garantizar una identificación y un registro precisos.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

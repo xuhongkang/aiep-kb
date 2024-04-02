@@ -1,0 +1,4 @@
+# Original SpEd Entry Date
+Original SpEd Entry Date: The Original SpEd Entry Date is the date when the school team and parent agreed that the student should get special education services officially. This date is very important and will never change, even if the student leaves and then comes back to receive special education again. It's the starting point for the student's special education journey and stays the same no matter what happens. This date can be found in the student's record and should be when the parent agrees to the Individualized Education Plan (IEP) for the first time.
+
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=31](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=31)

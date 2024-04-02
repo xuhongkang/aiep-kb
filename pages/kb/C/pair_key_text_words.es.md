@@ -1,3 +1,0 @@
-# Emparejar Texto Y Palabras Clave
-Emparejar Texto Y Palabras Clave: En un Programa de Educación Individualizado (IEP), el término «metas y objetivos» se refiere a las metas específicas y mensurables que un niño con necesidades especiales debe alcanzar dentro de un plazo determinado. Estas metas y objetivos se adaptan a las necesidades y habilidades únicas del niño, y ayudan a hacer un seguimiento del progreso y a determinar la eficacia del plan educativo.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

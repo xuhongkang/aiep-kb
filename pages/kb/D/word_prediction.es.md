@@ -1,3 +1,0 @@
-# Predicción De Palabras
-Predicción De Palabras: La predicción de palabras es una función de algunos dispositivos que sugiere palabras a medida que escribes para acelerar la escritura y mejorar la precisión. Puede ser especialmente útil para personas con discapacidades motoras o de aprendizaje. La función predice palabras en función de frases o patrones de uso común en la escritura. Al seleccionar las palabras sugeridas, puedes completar tus oraciones más rápido y con menos errores.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

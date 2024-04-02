@@ -1,0 +1,4 @@
+# Parent Guardian Surrogate Adult Student
+Parent Guardian Surrogate Adult Student: A Parent, Guardian, Surrogate, or Adult Student is someone who can make decisions for a child with special needs at school. They need to agree to assessments and services for the child. The district may ask for consent for testing or access to health insurance. If the child goes to a private school, the district may still offer services. A Surrogate can be appointed to help if the parent is not available. When the child turns 18, they have more control over their education plan. The school must do a fair assessment to understand the child's needs properly.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80)

@@ -1,3 +1,0 @@
-# Articulation
-Articulation: Articulation in the context of an Individualized Education Program (IEP) refers to the clear and effective communication of the plan and goals for a student with special needs. It involves ensuring that all parties involved, including parents, educators, therapists, and specialists, understand the strategies, accommodations, and services outlined in the IEP to support the student's learning and development. Articulation helps promote consistency and collaboration among team members, leading to better implementation of the IEP and improved outcomes for the student.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

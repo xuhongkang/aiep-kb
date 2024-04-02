@@ -1,3 +1,0 @@
-# El (English Learner)
-El (English Learner): EL (English Learner) refers to a student who is in the process of learning English as a second language. These students may need additional support in the classroom to help them understand and participate in lessons. Schools provide specialized programs and resources to assist EL students in developing their English proficiency while also meeting academic standards in other subjects.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

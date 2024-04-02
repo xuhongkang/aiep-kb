@@ -1,3 +1,0 @@
-# Social Emotional/Behavioral
-Social Emotional/Behavioral: The term 'Social Emotional/Behavioral' refers to the social, emotional, and behavioral aspects of a child's development and well-being. This includes their ability to manage emotions, build relationships, and behave appropriately in different situations. For children with an Individualized Education Program (IEP), addressing social emotional/behavioral needs is an important component to help them succeed in school and in life.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

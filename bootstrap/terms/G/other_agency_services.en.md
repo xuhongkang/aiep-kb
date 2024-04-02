@@ -1,0 +1,4 @@
+# Other Agency Services
+Other Agency Services: Other Agency Services are services provided by different organizations to help the student with their needs. Some examples of these organizations include California Children's Services, Department of Social Services, Department of Rehabilitation, Probation, Regional Center, County Mental Health, and others. These agencies might offer various supports like counseling, therapy, or specialized assistance to help the student succeed in school. It's important to document the services provided by these agencies in the student's Individualized Education Plan (IEP) to ensure they receive the necessary help. Make sure to discuss and include these services in the IEP team meetings to track the progress and support given to the student effectively.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=59](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=59)

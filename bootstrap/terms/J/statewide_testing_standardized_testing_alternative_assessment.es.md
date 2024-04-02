@@ -1,0 +1,4 @@
+# Pruebas estatales/pruebas estandarizadas/evaluación alternativa
+Pruebas estatales/pruebas estandarizadas/evaluación alternativa: Los exámenes estatales son cuando todos los estudiantes de un estado toman el mismo examen para ver qué tan bien están aprendiendo. Ayudan a las escuelas a saber si a los estudiantes les va bien y si necesitan ayuda adicional. Los exámenes estandarizados son un tipo de examen que es igual para todos y que ayuda a comparar a los estudiantes de diferentes escuelas. La evaluación alternativa es un tipo diferente de examen para los estudiantes que lo necesitan en función de sus necesidades o discapacidades únicas. Ayuda a medir su progreso de una manera diferente a la de las pruebas regulares.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49)

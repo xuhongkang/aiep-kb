@@ -1,0 +1,4 @@
+# Emocional/Comportamiento social
+Emocional/Comportamiento social: En términos simples, cuando hablamos de comportamiento social y emocional, buscamos metas que se puedan ver y medir fácilmente para ayudar a rastrear el progreso. Esto incluye asegurarse de que todas las metas de comportamiento estén claras y estén enumeradas en el Plan de Educación Individualizado (IEP). Es importante que todos los involucrados sepan lo que tienen que hacer. También queremos asegurarnos de que cualquier comportamiento nuevo que se enseñe sirva para el mismo propósito que el comportamiento anterior. Esto implica una comunicación y un entendimiento claros entre todos los que trabajan en el plan.
+
+Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9)

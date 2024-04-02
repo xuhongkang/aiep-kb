@@ -1,0 +1,4 @@
+# Comprensión
+Comprensión: Un plan educativo individualizado (IEP) es un plan especial para los niños que necesitan ayuda adicional en la escuela. El plan incluye metas específicas para ayudar al niño a aprender mejor en áreas como la lectura, las matemáticas y las habilidades sociales. Las metas se establecen en función de lo que el niño necesita y de cómo aprende mejor. Es importante tener metas realistas que coincidan con el estilo de aprendizaje del niño. El IEP también protege los derechos del niño al asegurarse de que se le hagan las pruebas en función de lo que debe saber para su nivel académico. Es como una hoja de ruta personalizada para ayudar al niño a dar lo mejor de sí en la escuela.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=48](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=48)

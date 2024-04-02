@@ -1,0 +1,4 @@
+# Eligible for Public Benefits (Medi-Cal)
+Eligible for Public Benefits (Medi-Cal): When your child receives special education services at school, the school district might need to access your child's Medi-Cal benefits to help pay for these services. However, the school cannot make you sign up for Medi-Cal or pay for any costs like deductibles. They also cannot use up your child's Medi-Cal benefits in a way that could harm your family's coverage or lead to increased fees. It's important to know that your consent for this is valid for one year and can be renewed annually. If you disagree with using Medi-Cal for these services, the school district is still responsible for providing the necessary special education services to your child at no cost to you.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80)

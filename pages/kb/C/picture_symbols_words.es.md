@@ -1,3 +1,0 @@
-# Imagen/Símbolos/Palabras
-Imagen/Símbolos/Palabras: Las palabras con símbolos ilustrados, también conocidas como apoyos visuales, son herramientas que se utilizan para ayudar a los estudiantes con dificultades de comunicación a expresar sus necesidades, pensamientos e ideas. Estas herramientas pueden incluir imágenes, símbolos o palabras para ayudar a comprender y transmitir información. A menudo se utilizan en los programas educativos individualizados (IEP) para ayudar a los estudiantes a alcanzar sus metas de aprendizaje y mejorar sus habilidades de comunicación.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

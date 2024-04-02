@@ -1,0 +1,4 @@
+# Título del examinador
+Título del examinador: ¡Esta es una explicación larga! Se trata de asegurarse de que la escuela siga las reglas al evaluar a su hijo o cambiar su plan educativo. La escuela necesita su permiso para cualquier prueba especial que no forme parte de las pruebas habituales. Le enviarán un plan con los detalles y le pedirán su aprobación. El plan explica por qué quieren hacerle la prueba a su hijo y qué tipo de prueba le harán. También necesitan tu permiso para usar cualquier seguro médico. La prueba analizará diferentes áreas, como el trabajo escolar, los comportamientos, las emociones y más. Diferentes profesionales, como maestros o psicólogos, pueden realizar la prueba. Es importante que comprenda y esté de acuerdo antes de realizarse cualquier prueba.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=112](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=112)

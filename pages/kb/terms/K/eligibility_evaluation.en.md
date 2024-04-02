@@ -1,0 +1,4 @@
+# Eligibility Evaluation
+Eligibility Evaluation: Eligibility Evaluation is a meeting to decide if a student still needs special education services. It happens every three years. The team will review assessment results and make a new plan. It's important for making sure the student is getting the right help. If more assessment is needed, the team will create a plan to gather more information. If the team decides no more assessment is needed, they will explain why in the meeting. It's important for parents to be involved in these discussions.
+
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25)

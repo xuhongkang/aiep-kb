@@ -1,0 +1,4 @@
+# Revisión inicial del plan
+Revisión inicial del plan: La revisión inicial del plan significa tener una reunión para comprobar el progreso de un estudiante y elaborar un nuevo plan sobre lo que debe aprender el próximo año. Esta reunión debe celebrarse todos los años dentro de los 365 días de la última reunión. Una evaluación de elegibilidad consiste en ver si el estudiante aún necesita educación especial, mientras que una revisión del plan consiste en establecer nuevas metas y servicios en función de los resultados de las pruebas. En estas reuniones, el equipo analiza aspectos como la situación actual del estudiante, los servicios que necesita y dónde debe aprender.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=8](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=8)

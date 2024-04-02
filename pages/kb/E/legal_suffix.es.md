@@ -1,3 +1,0 @@
-# Sufijo Legal
-Sufijo Legal: Un sufijo legal es un título que se agrega al nombre de una persona según su estado legal, como Jr., Sr., Esq. o Ph.D. Estos sufijos proporcionan información específica sobre una persona, como la diferencia generacional o la calificación profesional. Si bien estos títulos pueden tener un significado personal, por lo general no son necesarios para fines de identificación oficial.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

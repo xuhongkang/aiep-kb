@@ -1,3 +1,0 @@
-# Overall Performance Level
-Overall Performance Level: Overall Performance Level in an Individualized Education Program (IEP) refers to a general assessment of a student's current academic and functional abilities across various areas like reading, math, behavior, and social skills. It captures the student's skill level and progress compared to their peers. The overall performance level helps educators and parents understand where the student stands in their development and what kind of support or modifications may be necessary to help them succeed in school.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

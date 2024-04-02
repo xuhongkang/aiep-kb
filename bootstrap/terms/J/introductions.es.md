@@ -1,0 +1,4 @@
+# Introducciones
+Introducciones: Las presentaciones significan saludar y explicar por qué estamos teniendo una reunión. Ayuda a todos a saber qué esperar y quién hablará. Al comienzo de la reunión, las personas se presentan y explican su función. Esto ayuda a garantizar que todos sepan quién está allí y por qué. Por lo general, una reunión comienza hablando sobre el motivo por el que nos reunimos, cuánto tiempo durará y quién hablará. Luego, todos comparten un poco sobre sí mismos y sobre el estudiante del que estamos hablando. Es importante que los padres también compartan sus opiniones porque se necesita la opinión de todos.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=20](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=20)

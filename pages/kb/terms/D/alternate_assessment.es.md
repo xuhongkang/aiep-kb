@@ -1,0 +1,4 @@
+# Evaluaciones alternativas
+Evaluaciones alternativas: Las evaluaciones alternativas son pruebas que son diferentes de las evaluaciones estatales o distritales habituales que realizan la mayoría de los estudiantes. Estas pruebas son para estudiantes que pueden tener necesidades especiales o discapacidades que les dificultan presentarse a las pruebas regulares. El equipo del Plan Educativo Individualizado (IEP, por sus siglas en inglés) evalúa si el estudiante debe realizar estos exámenes alternativos y decide si son apropiados en función de sus necesidades. Ayuda a garantizar que todos los estudiantes tengan una oportunidad justa de demostrar lo que saben y pueden hacer en la escuela.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=77](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=77)

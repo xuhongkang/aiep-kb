@@ -1,0 +1,5 @@
+# English Proficiency Level
+English Proficiency Level: English Proficiency Level refers to how well a student can understand and speak English. If a student is still learning English, they may need extra help in their classes to understand the lessons. This help could include using their primary language to explain things, especially if they are at the beginning or intermediate levels of English learning. Students who are learning English and have disabilities should get their English language lessons in a regular classroom as much as possible.
+In the student's education plan, there should be goals related to improving their English skills if they are still learning the language. The team working on the plan should make sure that the goals are measurable and focus on the student's specific needs. They should also consider any language support the student might need to succeed in school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=26](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=26)

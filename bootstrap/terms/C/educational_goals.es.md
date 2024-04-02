@@ -1,0 +1,4 @@
+# Metas educativas
+Metas educativas: Las metas educativas son lo que queremos que su hijo aprenda en un año. Estas metas se deciden en una reunión con los maestros de su hijo. Deben ser específicas, medibles y realistas. Las metas se basan en aquello en lo que su hijo necesita trabajar. Por ejemplo, las metas pueden tener que ver con la lectura, las matemáticas o las habilidades sociales. Diferentes maestros o especialistas ayudarán a su hijo a alcanzar diferentes metas. Es importante hablar con el maestro de educación especial de su hijo antes de la reunión para compartir las metas que usted considera importantes.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=136](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=136)

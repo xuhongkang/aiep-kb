@@ -1,0 +1,4 @@
+# Student Enrolled in Private School by Their Parents (Refer to Individual Service Plan, If Appropriate)
+Student Enrolled in Private School by Their Parents (Refer to Individual Service Plan, If Appropriate): If a student is attending a private school chosen by their parents, the school district needs to create an Individual Service Plan (ISP) for that student. The district will discuss with the parents the possibility of developing this plan to ensure the student gets the help they need. This plan will outline the specific support and services the student will receive while attending the private school. It's important for parents to be involved in this process and understand that the school district can provide services even if the student is enrolled in a private school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117)

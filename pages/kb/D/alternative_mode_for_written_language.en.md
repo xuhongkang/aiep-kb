@@ -1,3 +1,0 @@
-# Alternative Mode For Written Language
-Alternative Mode For Written Language: An alternative mode for written language is a different way for students to demonstrate their understanding of written material besides traditional writing. This can include methods such as using speech-to-text technology, graphic organizers, or visual representations. By offering alternative modes for written language, students with difficulties in writing can still effectively communicate their knowledge and ideas.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

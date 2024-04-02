@@ -1,3 +1,0 @@
-# Semántica
-Semántica: La semántica es el estudio del significado en el lenguaje. Se centra en cómo las palabras, frases y oraciones transmiten diferentes significados y en cómo las personas interpretan y entienden el lenguaje. En lingüística, la semántica examina las relaciones entre las palabras y sus significados, así como la forma en que se usa el lenguaje para transmitir ideas e información. Comprender la semántica nos ayuda a comunicarnos de manera eficaz mediante el uso de palabras y un lenguaje que reflejen con precisión los significados que pretendemos.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

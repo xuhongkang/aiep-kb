@@ -1,0 +1,4 @@
+# Condiciones de emergencia
+Condiciones de emergencia: Un plan de disposiciones para condiciones de emergencia es un plan que las escuelas implementan para situaciones especiales, como emergencias. Ayuda a decidir cómo continuar con los servicios de educación especial durante eventos inesperados, como el cierre de escuelas. Este plan no cambia la oferta regular de educación especial de la escuela durante los días normales. Se usa solo durante emergencias para garantizar que los estudiantes sigan recibiendo la ayuda que necesitan. Recuerde que este plan no es lo mismo que la regla de «quedarse quietos», que mantiene los mismos servicios durante los desacuerdos. El plan no necesita la firma de los padres, pero debe completarse en su totalidad.
+
+Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=36](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=36)

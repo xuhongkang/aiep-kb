@@ -1,0 +1,4 @@
+# Case Manager
+Case Manager: A case manager is a person who helps organize and run meetings about a student's education plan. They schedule the meeting, make sure everyone knows about it, and collect important documents beforehand. The case manager also helps the team share information about the student and make decisions during the meeting. If there are any disagreements or tough issues, the case manager works to find solutions. They are there to make sure the meeting stays on track and that everyone's opinions are heard.
+
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=3](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=3)

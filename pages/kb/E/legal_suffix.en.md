@@ -1,3 +1,0 @@
-# Legal Suffix
-Legal Suffix: A legal suffix is a title added to a person's name according to their legal status, such as Jr., Sr., Esq., or Ph.D. These suffixes provide specific information about an individual, like a generational difference or professional qualification. While these titles can hold personal significance, they are usually not necessary for official identification purposes.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

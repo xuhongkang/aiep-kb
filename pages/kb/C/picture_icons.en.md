@@ -1,3 +1,0 @@
-# Picture Icons
-Picture Icons: Picture icons are visual symbols that represent words or ideas, making it easier for individuals, especially those with communication challenges, to understand information. These icons are often used in schools to support students who have trouble with reading or expressing themselves verbally. By using picture icons, educators can enhance communication, comprehension, and independence for students in various settings.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

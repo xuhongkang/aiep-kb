@@ -1,3 +1,0 @@
-# Dynamic Display
-Dynamic Display: Dynamic display is a feature used in communication devices for individuals with special needs. It allows users to select symbols or words on a screen that change or update based on the context or user's needs. This feature enables users to communicate effectively by providing a flexible and customizable interface. Dynamic display systems are often used in augmentative and alternative communication (AAC) devices to support individuals with communication challenges in expressing themselves.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

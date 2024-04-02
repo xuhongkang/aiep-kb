@@ -1,3 +1,0 @@
-# Morphology
-Morphology: Morphology is the study of the structure of words and how they are formed. It focuses on the smallest units of meaning in language, such as prefixes, suffixes, and roots. By examining the morphology of words, linguists can better understand how words are put together and how they convey meaning. This field of study is important for language development and can help individuals improve their vocabulary and understanding of language.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

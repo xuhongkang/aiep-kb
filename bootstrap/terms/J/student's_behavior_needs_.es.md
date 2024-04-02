@@ -1,0 +1,4 @@
+# Necesidades de comportamiento del estudiante (BIP)
+Necesidades de comportamiento del estudiante (BIP): Las necesidades de comportamiento de un estudiante consisten en averiguar cómo ayudarlo con las acciones que podrían obstaculizar el aprendizaje. El equipo del IEP analiza con qué frecuencia se produce la conducta y qué tan grave es para decidir qué tipo de ayuda necesita el estudiante. Podrían sugerir cambios en el entorno escolar, enseñar nuevos comportamientos, establecer metas o remitir al estudiante a servicios adicionales. Sobre la base de los resultados de la evaluación, se elaborará un plan para ayudar a mejorar el comportamiento y, de ser necesario, se podría programar una reunión para trabajar en él.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=103](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=103)

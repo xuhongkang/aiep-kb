@@ -1,0 +1,4 @@
+# SBAC con adaptaciones integradas
+SBAC con adaptaciones integradas: El SBAC con adaptaciones integradas significa que un estudiante está realizando un examen llamado SBAC, que es para ciertas calificaciones. El examen incluye ayuda especial para los estudiantes que la necesitan. Esta ayuda ya está disponible durante el examen, por lo que el estudiante no tiene que pedirla por separado. Puede incluir cosas como diferentes maneras de responder a las preguntas, usar un equipo especial u obtener ayuda para cosas como leer o escribir. El equipo del IEP del estudiante decide si estas adaptaciones son necesarias en función de las necesidades del estudiante.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50)

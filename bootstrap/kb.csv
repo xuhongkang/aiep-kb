@@ -1,0 +1,329 @@
+header,section
+Student Name,Section A: Information/Eligibility
+Date of Birth,Section A: Information/Eligibility
+Original SpEd Entry Date,Section A: Information/Eligibility
+Next Annual IEP,Section A: Information/Eligibility
+Last Eval,Section A: Information/Eligibility
+Next Eval,Section A: Information/Eligibility
+"Meeting Type: Initial, Annual, Triennial",Section A: Information/Eligibility
+"Additional Purpose of Meeting (If Needed): Transition, Pre-Expulsion, Interim, Other",Section A: Information/Eligibility
+Age,Section A: Information/Eligibility
+Gender,Section A: Information/Eligibility
+Grade,Section A: Information/Eligibility
+"Migrant: Yes, No",Section A: Information/Eligibility
+Native Language,Section A: Information/Eligibility
+"English Learner: Yes, No",Section A: Information/Eligibility
+"Redesignated: Standard Reclassification, Individualized Reclassification",Section A: Information/Eligibility
+"Interpreter: Yes, No",Section A: Information/Eligibility
+Student ID,Section A: Information/Eligibility
+Social Security Number (SSN),Section A: Information/Eligibility
+Statewide Student ID (SSID),Section A: Information/Eligibility
+Residency,Section A: Information/Eligibility
+Parent/Guardian,Section A: Information/Eligibility
+District of Residence,Section A: Information/Eligibility
+Residence School,Section A: Information/Eligibility
+Ethnicity,Section A: Information/Eligibility
+Race,Section A: Information/Eligibility
+"Indicate Disabilities: Primary, Secondary, *Low Incidence Disability, Not Eligible for Special Education, Exiting from Special Education",Section A: Information/Eligibility
+"Describe How Student's Disability Affects Involvement and Progress in General Curriculum (Or for Preschoolers, Participation in Appropriate Activities)",Section A: Information/Eligibility
+Strengths/Preferences/Interests,Section B: Present Levels of Academic Achievement and Functional Performance
+Parent Input and Concerns Relevant to Educational Progress,Section B: Present Levels of Academic Achievement and Functional Performance
+Smarter Balanced Assessment Consortium (SBAC): Not Applicable,Section B: Present Levels of Academic Achievement and Functional Performance
+"English/Language Arts Overall: Standard Exceeded, Met, Nearly Met, Not Met",Section B: Present Levels of Academic Achievement and Functional Performance
+"Math Overall: Standard Exceeded, Met, Nearly Met, Not Met",Section B: Present Levels of Academic Achievement and Functional Performance
+California Alternate Assessments (CAA): Not Applicable,Section B: Present Levels of Academic Achievement and Functional Performance
+"English Language Arts: Understanding, Foundational Understanding, Limited Understanding",Section B: Present Levels of Academic Achievement and Functional Performance
+"Math: Understanding, Foundational Understanding, Limited Understanding",Section B: Present Levels of Academic Achievement and Functional Performance
+"Science: Understanding, Foundational Understanding, Limited Understanding",Section B: Present Levels of Academic Achievement and Functional Performance
+English Language Development Test (English Learners Only): Not Applicable,Section B: Present Levels of Academic Achievement and Functional Performance
+English Language Proficiency Assessments of California (ELPAC),Section B: Present Levels of Academic Achievement and Functional Performance
+"Initial ELPAC: Overall Score, Oral Language Score/Level, Written Language Score/Level",Section B: Present Levels of Academic Achievement and Functional Performance
+"Summative ELPAC: Overall Score, Oral Language Score/Level, Written Language Score/Level",Section B: Present Levels of Academic Achievement and Functional Performance
+"Scores by Domain: Listening, Speaking, Reading, Writing",Section B: Present Levels of Academic Achievement and Functional Performance
+"Performance by Domain: Listening, Speaking, Reading, Writing",Section B: Present Levels of Academic Achievement and Functional Performance
+"Alternate English Language Proficiency Assessments for California (Alternate ELPAC): Initial Alternate ELPAC, Summative Alternate ELPAC",Section B: Present Levels of Academic Achievement and Functional Performance
+Physical Education Testing,Section B: Present Levels of Academic Achievement and Functional Performance
+"Other Assessment Data: Curriculum Assessment, Other District Assessment, etc.",Section B: Present Levels of Academic Achievement and Functional Performance
+"Hearing Date: Pass, Fail, Other",Section B: Present Levels of Academic Achievement and Functional Performance
+"Near Vision Date: Pass, Fail, Other",Section B: Present Levels of Academic Achievement and Functional Performance
+"Distance Vision Date: Pass, Fail, Other",Section B: Present Levels of Academic Achievement and Functional Performance
+"Preacademic/Academic/Functional Skills: ELA, Math",Section B: Present Levels of Academic Achievement and Functional Performance
+"Communication Development: Date: 8/29/23, Progress on Goals, Recommendations",Section B: Present Levels of Academic Achievement and Functional Performance
+Gross/Fine Motor Development: Occupational Therapy Update Date: 8/28/2023,Section B: Present Levels of Academic Achievement and Functional Performance
+Social Emotional/Behavioral,Section B: Present Levels of Academic Achievement and Functional Performance
+Vocational,Section B: Present Levels of Academic Achievement and Functional Performance
+Adaptive/Daily Living Skills,Section B: Present Levels of Academic Achievement and Functional Performance
+Health,Section B: Present Levels of Academic Achievement and Functional Performance
+"Receptive/Expressive Language, Pragmatics, Academics--Reading/Math",Section B: Present Levels of Academic Achievement and Functional Performance
+Low Incidence Services,Section C: Special Factors
+Assistive Technology Devices,Section C: Special Factors
+"Equipment, and/or Materials to Meet Educational Goals? (Yes, No)",
+Low Incidence Services,Section C: Special Factors
+Equipment,Section C: Special Factors
+Materials,Section C: Special Factors
+Educational Goals,Section C: Special Factors
+Blind or Visually Impaired,Section C: Special Factors
+Deaf or Hard of Hearing,Section C: Special Factors
+English Learner,Section C: Special Factors
+Comprehensive English Language Development (Comprehensive ELD),Section C: Special Factors
+Integrated English Language Development (Integrated ELD),Section C: Special Factors
+Primary Language Supports,Section C: Special Factors
+Oral Clarification,Section C: Special Factors
+Illustrated Glossaries,Section C: Special Factors
+Graphic Organizer,Section C: Special Factors
+Key Concepts,Section C: Special Factors
+Visuals,Section C: Special Factors
+Definitions,Section C: Special Factors
+Frontloading,Section C: Special Factors
+Relationships Between Concepts,Section C: Special Factors
+Comprehension Checks,Section C: Special Factors
+Bilingual Dictionary,Section C: Special Factors
+Glossaries,Section C: Special Factors
+Designated English Language Development (Designated ELD),Section C: Special Factors
+Structured English Immersion (SEI),Section C: Special Factors
+Behavior Impede Learning,Section C: Special Factors
+Positive Behavior Interventions,Section C: Special Factors
+Strategies,Section C: Special Factors
+Supports,Section C: Special Factors
+Behavior Goal,Section C: Special Factors
+Behavior Intervention Plan (BIP),Section C: Special Factors
+California Assessment of Student Performance and Progress (CAASPP),Section D: Statewide Assessments
+English Language Arts,Section D: Statewide Assessments
+SBAC with Designated Supports Embedded,Section D: Statewide Assessments
+SBAC with Designated Supports Non-Embedded,Section D: Statewide Assessments
+Noise Buffers,Section D: Statewide Assessments
+Read Aloud,Section D: Statewide Assessments
+Scribe,Section D: Statewide Assessments
+Separate Setting,Section D: Statewide Assessments
+Simplified Test Directions,Section D: Statewide Assessments
+Translated Test Directions Spanish,Section D: Statewide Assessments
+SBAC with Accommodations Embedded,Section D: Statewide Assessments
+Word Prediction,Section D: Statewide Assessments
+SBAC with Accommodations Non-Embedded,Section D: Statewide Assessments
+Alternative Response Options,Section D: Statewide Assessments
+SBAC with Accessibility Support,Section D: Statewide Assessments
+Math,Section D: Statewide Assessments
+Translations ,Section D: Statewide Assessments
+Text-to-Speech,Section D: Statewide Assessments
+100s Number Table,Section D: Statewide Assessments
+Multiplication Table,Section D: Statewide Assessments
+Science,Section D: Statewide Assessments
+Physical Fitness Test,Section D: Statewide Assessments
+Without Accommodations,Section D: Statewide Assessments
+With Accommodations,Section D: Statewide Assessments
+With Modifications,Section D: Statewide Assessments
+Alternate Assessment(s),Section D: Statewide Assessments
+Desired Results Developmental Profile (DRDP),Section D: Statewide Assessments
+Adaptations,Section D: Statewide Assessments
+Sensory Support,Section D: Statewide Assessments
+Functional Positioning,Section D: Statewide Assessments
+Alternative Response Mode,Section D: Statewide Assessments
+Assistive Equipment or Device,Section D: Statewide Assessments
+Visual Support,Section D: Statewide Assessments
+Alternative Mode for Written Language,Section D: Statewide Assessments
+Augmentative or Alternative Communication System,Section D: Statewide Assessments
+Initial ELPAC,Section D: Statewide Assessments
+Designated Supports,Section D: Statewide Assessments
+Accommodations,Section D: Statewide Assessments
+Summative ELPAC,Section D: Statewide Assessments
+Embedded Designated Supports,Section D: Statewide Assessments
+Non-Embedded Designated Supports,Section D: Statewide Assessments
+Embedded Accommodations,Section D: Statewide Assessments
+Non-Embedded Accommodations,Section D: Statewide Assessments
+Domain Exemption,Section D: Statewide Assessments
+Alternate ELPAC,Section D: Statewide Assessments
+Initial Alternate ELPAC,Section D: Statewide Assessments
+Summative Alternate ELPAC,Section D: Statewide Assessments
+Alternate ELPAC Embedded Designated Supports,Section D: Statewide Assessments
+Alternate ELPAC Non-Embedded Designated Supports,Section D: Statewide Assessments
+Alternate ELPAC Non-Embedded Accommodations,Section D: Statewide Assessments
+Standards Based Tests in Spanish (STS),Section D: Statewide Assessments
+Short-Term Objective,Section E: Annual Goals and Objectives
+Annual Goals and Objectives,Section E: Annual Goals and Objectives
+Student Legal Name,Section E: Annual Goals and Objectives
+Legal Suffix,Section E: Annual Goals and Objectives
+Birthdate,Section E: Annual Goals and Objectives
+IEP Date,Section E: Annual Goals and Objectives
+Area of Need,Section E: Annual Goals and Objectives
+Baseline,Section E: Annual Goals and Objectives
+Measurable Annual Goal,Section E: Annual Goals and Objectives
+As Measured By,Section E: Annual Goals and Objectives
+Enables Student to Be Involved/Progress in General Curriculum/State Standard,Section E: Annual Goals and Objectives
+Addresses Other Educational Needs,Section E: Annual Goals and Objectives
+Linguistically Appropriate,Section E: Annual Goals and Objectives
+"Transition Goal: Education, Training, Employment, Independent Living",Section E: Annual Goals and Objectives
+Person(s) Responsible,Section E: Annual Goals and Objectives
+Progress Report,Section E: Annual Goals and Objectives
+Summary of Progress,Section E: Annual Goals and Objectives
+Comments,Section E: Annual Goals and Objectives
+Goal: Annual Review,Section E: Annual Goals and Objectives
+Goal Met Yes/No,Section E: Annual Goals and Objectives
+English Language Development (Note for English Learners),Section E: Annual Goals and Objectives
+Offer of FAPE - Service,Section F: Offer of FAPE - Service
+Service Options Considered by the IEP Team,Section F: Offer of FAPE - Service
+Least Restrictive Environment (LRE),Section F: Offer of FAPE - Service
+Supplementary Aids & Services,Section F: Offer of FAPE - Service
+"Other Supports for School Personnel, or for Student, or on Behalf of the Student",Section F: Offer of FAPE - Service
+Program Accommodations,Section F: Offer of FAPE - Service
+Program Modifications,Section F: Offer of FAPE - Service
+Special Education and Related Services,Section F: Offer of FAPE - Service
+Specialized Academic Instruction,Section F: Offer of FAPE - Service
+Language and Speech,Section F: Offer of FAPE - Service
+Start Date,Section F: Offer of FAPE - Service
+End Date,Section F: Offer of FAPE - Service
+Location,Section F: Offer of FAPE - Service
+Provider,Section F: Offer of FAPE - Service
+Duration/Frequency,Section F: Offer of FAPE - Service
+Totaling,Section F: Offer of FAPE - Service
+Special Education Transportation,Section F: Offer of FAPE - Service
+Extended School Year (ESY),Section F: Offer of FAPE - Service
+FAPE (Free Appropriate Public Education),Section G: Offer of FAPE - Educational Setting
+Educational Setting,Section G: Offer of FAPE - Educational Setting
+Physical Education,Section G: Offer of FAPE - Educational Setting
+General,Section G: Offer of FAPE - Educational Setting
+Specially Designed,Section G: Offer of FAPE - Educational Setting
+District of Service,Section G: Offer of FAPE - Educational Setting
+School of Attendance,Section G: Offer of FAPE - Educational Setting
+Preschool Program Setting,Section G: Offer of FAPE - Educational Setting
+Regular Early Childhood Program,Section G: Offer of FAPE - Educational Setting
+TK (Transitional Kindergarten)/Kgn (Kindergarten),Section G: Offer of FAPE - Educational Setting
+Program Setting,Section G: Offer of FAPE - Educational Setting
+Regular Classroom,Section G: Offer of FAPE - Educational Setting
+Public Day School,Section G: Offer of FAPE - Educational Setting
+Other Agency Services,Section G: Offer of FAPE - Educational Setting
+County Mental Health,Section G: Offer of FAPE - Educational Setting
+California Children's Services (CCS),Section G: Offer of FAPE - Educational Setting
+Regional Center,Section G: Offer of FAPE - Educational Setting
+Probation,Section G: Offer of FAPE - Educational Setting
+Department of Rehabilitation,Section G: Offer of FAPE - Educational Setting
+Department of Social Services (DSS),Section G: Offer of FAPE - Educational Setting
+Promotion Criteria,Section G: Offer of FAPE - Educational Setting
+Progress Summary Report,Section G: Offer of FAPE - Educational Setting
+Activities to Support Transition,Section G: Offer of FAPE - Educational Setting
+Emergency Circumstances Program,Section H: Emergency Circumstances Program
+"Instruction, Services, or Both",Section H: Emergency Circumstances Program
+Emergency Conditions,Section H: Emergency Circumstances Program
+Service Delivery Methods,Section H: Emergency Circumstances Program
+"Teacher/Provider-Posted Lessons, Asynchronous",Section H: Emergency Circumstances Program
+Personalized Learning Tools,Section H: Emergency Circumstances Program
+Scheduled Email Check-Ins,Section H: Emergency Circumstances Program
+"Virtual Class/Group Meetings, Synchronous",Section H: Emergency Circumstances Program
+Scheduled Teacher/Provider Appointments,Section H: Emergency Circumstances Program
+Virtual Office Hours/Drop-In,Section H: Emergency Circumstances Program
+Specialized Academic Instruction and Related Services,Section H: Emergency Circumstances Program
+Services,Section H: Emergency Circumstances Program
+Individual/Group,Section H: Emergency Circumstances Program
+Frequency & Duration,Section H: Emergency Circumstances Program
+Service Delivery Method(s),Section H: Emergency Circumstances Program
+IEP Goals to Be Addressed,Section H: Emergency Circumstances Program
+Transition Services,Section H: Emergency Circumstances Program
+Extended School Year Services,Section H: Emergency Circumstances Program
+Supplementary Aids and Services,Section H: Emergency Circumstances Program
+Additional Comments or Provisions,Section H: Emergency Circumstances Program
+Signature and Parent Consent,Section I: Signature and Parent Consent
+IEP Meeting Participants,Section I: Signature and Parent Consent
+Parent/Guardian/Surrogate,Section I: Signature and Parent Consent
+Student/Adult Student,Section I: Signature and Parent Consent
+General Education Teacher,Section I: Signature and Parent Consent
+LEA Representative/Admin. Designee,Section I: Signature and Parent Consent
+Special Education Specialist,Section I: Signature and Parent Consent
+Additional Participant/Title,Section I: Signature and Parent Consent
+Consent,Section I: Signature and Parent Consent
+Level of Consent: I Agree to All Parts of the IEP,Section I: Signature and Parent Consent
+"Level of Consent: I Agree with the IEP, with the Exception of",Section I: Signature and Parent Consent
+Level of Consent: I Decline the Offer of Initiation of Special Education Services,Section I: Signature and Parent Consent
+Level of Consent: I Understand That My Child Is Not Eligible for Special Education,Section I: Signature and Parent Consent
+Level of Consent: I Understand That My Child Is No Longer Eligible for Special Education,Section I: Signature and Parent Consent
+Signature,Section I: Signature and Parent Consent
+Parent Guardian Surrogate Adult Student,Section I: Signature and Parent Consent
+Authorization to Release Student Information for Billing Medi-Cal/Medicaid,Section I: Signature and Parent Consent
+Receipt of Procedural Safeguards,Section I: Signature and Parent Consent
+Receipt of Assessment Report (If Applicable),Section I: Signature and Parent Consent
+Receipt of the Individualized Education Plan (IEP),Section I: Signature and Parent Consent
+Written Notification of Protections Available When LEA Requests to Access Medi-Cal Benefits,Section I: Signature and Parent Consent
+"Student Enrolled in Private School by Their Parents (Refer to Individual Service Plan, If Appropriate)",Section I: Signature and Parent Consent
+IEP Team Meeting Notes:,Section J: IEP Team Meeting Notes
+Participants,Section J: IEP Team Meeting Notes
+Administrator,Section J: IEP Team Meeting Notes
+Special Education Teacher,Section J: IEP Team Meeting Notes
+School Psychologist,Section J: IEP Team Meeting Notes
+Speech Therapist,Section J: IEP Team Meeting Notes
+Occupational Therapist,Section J: IEP Team Meeting Notes
+Translation Preference,Section J: IEP Team Meeting Notes
+Meeting Agenda Items,Section J: IEP Team Meeting Notes
+Introductions,Section J: IEP Team Meeting Notes
+Procedural Safeguards,Section J: IEP Team Meeting Notes
+Present Levels of Performance,Section J: IEP Team Meeting Notes
+Measurable Goals,Section J: IEP Team Meeting Notes
+Offer of FAPE (Free Appropriate Public Education),Section J: IEP Team Meeting Notes
+Special Factors Page,Section J: IEP Team Meeting Notes
+Statewide Testing/Standardized Testing/Alternative Assessment,Section J: IEP Team Meeting Notes
+Accommodations/Modifications,Section J: IEP Team Meeting Notes
+Transportation,Section J: IEP Team Meeting Notes
+Services Offered,Section J: IEP Team Meeting Notes
+Extended School Year (ESY),Section J: IEP Team Meeting Notes
+Physical Education (PE),Section J: IEP Team Meeting Notes
+Parent Input,Section J: IEP Team Meeting Notes
+Educational Team Inputs,Section J: IEP Team Meeting Notes
+Assistive Technology,Section J: IEP Team Meeting Notes
+English Language Needs of Student,Section J: IEP Team Meeting Notes
+Student's Behavior Needs (BIP),Section J: IEP Team Meeting Notes
+Goals Review and Development,Section J: IEP Team Meeting Notes
+Measurable Goals and Objectives,Section J: IEP Team Meeting Notes
+Agreement to All Parts of the IEP,Section J: IEP Team Meeting Notes
+Agreement with Exceptions,Section J: IEP Team Meeting Notes
+Decline of Services,Section J: IEP Team Meeting Notes
+Understanding of Eligibility or Ineligibility for Special Education,Section J: IEP Team Meeting Notes
+Authorization for Medi-Cal Billing,Section J: IEP Team Meeting Notes
+Parent/Adult Student Acknowledgements,Section J: IEP Team Meeting Notes
+Initial Plan Review,Section K: Assessment Plan
+Eligibility Evaluation,Section K: Assessment Plan
+Other,Section K: Assessment Plan
+Assessment Plan Date,Section K: Assessment Plan
+Local Education Agency/District (LEA),Section K: Assessment Plan
+English Proficiency Level,Section K: Assessment Plan
+Evaluation Area,Section K: Assessment Plan
+Examiner Title,Section K: Assessment Plan
+Academic Achievement,Section K: Assessment Plan
+Intellectual Development,Section K: Assessment Plan
+Language/Speech Communication Development,Section K: Assessment Plan
+Motor Development,Section K: Assessment Plan
+Social Emotional/Behavior,Section K: Assessment Plan
+Adaptive Behavior,Section K: Assessment Plan
+Post-Secondary Transition,Section K: Assessment Plan
+Alternative Means of Assessment,Section K: Assessment Plan
+Notice of Procedural Safeguards,Section K: Assessment Plan
+Consent to the Assessment,Section K: Assessment Plan
+Do Not Consent to the Proposed Assessment,Section K: Assessment Plan
+Assessment Information to Be Considered by the IEP Team,Section K: Assessment Plan
+Eligible for Public Benefits (Medi-Cal),Section K: Assessment Plan
+Written Notification of Protections Available,Section K: Assessment Plan
+Notice of Action/Prior Written Notice,Section K: Assessment Plan
+Residential Status,Section L: IEP at a Glance
+Case Manager,Section L: IEP at a Glance
+Next Eligibility Evaluation,Section L: IEP at a Glance
+Units/Credits Completed,Section L: IEP at a Glance
+Units/Credits Pending,Section L: IEP at a Glance
+Diploma,Section L: IEP at a Glance
+Certificate of Completion,Section L: IEP at a Glance
+Anticipated Completion Date,Section L: IEP at a Glance
+Comprehension,Section L: IEP at a Glance
+Writing Composition,Section L: IEP at a Glance
+Applied Math,Section L: IEP at a Glance
+Articulation/Phonology,Section L: IEP at a Glance
+Expressive Language,Section L: IEP at a Glance
+Decoding,Section L: IEP at a Glance
+Sight Word Recognition,Section L: IEP at a Glance
+Place Value,Section L: IEP at a Glance
+Receptive Language,Section L: IEP at a Glance
+Expressive Communication,Section L: IEP at a Glance
+Fine Motor and Visual Motor Integration,Section L: IEP at a Glance
+Statewide Assessments,Section L: IEP at a Glance
+Test Participation,Section L: IEP at a Glance
+Accommodations / Modifications,Section L: IEP at a Glance
+English Language Arts (ELA),Section L: IEP at a Glance
+Other State-Wide/District-Wide Assessment(s),Section L: IEP at a Glance
+Supplementary Aids & Services and Other Supports,Section L: IEP at a Glance
+"Other Supports for School Personnel, or for Student, or on Behalf of Student",Section L: IEP at a Glance
+Behavior Impedes Learning,Section L: IEP at a Glance
+Extended School Year Services,Section L: IEP at a Glance

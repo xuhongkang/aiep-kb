@@ -1,0 +1,4 @@
+# Padre, tutor, estudiante adulto sustituto
+Padre, tutor, estudiante adulto sustituto: Un padre, tutor, sustituto o estudiante adulto es alguien que puede tomar decisiones para un niño con necesidades especiales en la escuela. Deben aceptar las evaluaciones y los servicios para el niño. El distrito puede solicitar el consentimiento para hacerse las pruebas o el acceso al seguro médico. Si el niño asiste a una escuela privada, es posible que el distrito siga ofreciendo servicios. Se puede designar a una madre sustituta para que ayude si el padre no está disponible. Cuando el niño cumple 18 años, tiene más control sobre su plan educativo. La escuela debe hacer una evaluación justa para entender adecuadamente las necesidades del niño.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80)

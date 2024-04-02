@@ -1,0 +1,4 @@
+# Puntuaciones por dominio: escuchar, hablar, leer, escribir
+Puntuaciones por dominio: escuchar, hablar, leer, escribir: Los puntajes del IEP son como las calificaciones en diferentes materias. Hay cuatro áreas principales: escuchar, hablar, leer y escribir. Estos puntajes ayudan a los maestros y a los padres a ver qué tan bien le está yendo a un estudiante en cada una de estas áreas. Si un estudiante se presenta a exámenes alternativos en lugar de los exámenes regulares, también se debe incluir esa información. Es importante hacer un seguimiento del progreso del estudiante en relación con las metas de los IEP anteriores y también anotar cualquier evaluación o evaluación específica a la que se haya sometido, como las pruebas de audición o de la vista.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51)

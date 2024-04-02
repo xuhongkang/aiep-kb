@@ -1,3 +1,0 @@
-# Justificación
-Justificación: El fundamento de un Programa de Educación Individualizado (IEP) es la justificación o el razonamiento detrás de las decisiones tomadas para un estudiante con necesidades especiales. Describe por qué se incluyen metas, servicios, adaptaciones o modificaciones específicas en el plan educativo del niño. La justificación garantiza que se aborden las necesidades individualizadas del estudiante y que las intervenciones elegidas se basen en la evidencia y en las fortalezas y debilidades del estudiante.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

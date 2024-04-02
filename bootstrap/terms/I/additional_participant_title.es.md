@@ -1,0 +1,4 @@
+# Participante adicional/título
+Participante adicional/título: En la sección Participante adicional/Título del formulario del Programa de educación individualizado (IEP) puede anotar los nombres y funciones de cualquier persona adicional a la que quiera invitar a la reunión. Podría ser alguien, como un familiar, un terapeuta o cualquier otra persona que conozca bien a su hijo y pueda ayudarlo con la planificación. Es importante incluir esta información para que todos los involucrados en la educación de su hijo estén informados.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=21](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=21)

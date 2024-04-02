@@ -1,0 +1,4 @@
+# English Language Proficiency Assessments of California (ELPAC)
+English Language Proficiency Assessments of California (ELPAC): The English Language Proficiency Assessments of California (ELPAC) help figure out how well a student understands and uses English. If a student is learning English (an English Learner), they might need extra help in their native language to learn different subjects. The IEP team decides where the student will learn English every day, either in regular classes or special education classes. The team also looks at how the student behaves in class and if it affects their learning or others. They make a plan to help improve behavior if needed. The team also discusses how the student will take state tests each year and if any special help or changes are needed.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49)

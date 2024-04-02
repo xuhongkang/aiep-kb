@@ -1,0 +1,4 @@
+# Gestor de casos
+Gestor de casos: Un administrador de casos es una persona que ayuda a organizar y dirigir reuniones sobre el plan educativo de un estudiante. Programan la reunión, se aseguran de que todos la conozcan y recopilan los documentos importantes de antemano. El administrador del caso también ayuda al equipo a compartir información sobre el estudiante y a tomar decisiones durante la reunión. Si hay desacuerdos o problemas difíciles, el administrador de casos trabaja para encontrar soluciones. Están ahí para asegurarse de que la reunión siga por buen camino y de que se escuchen las opiniones de todos.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=3](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=3)

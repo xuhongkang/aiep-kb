@@ -1,3 +1,0 @@
-# Idea Funding
-Idea Funding: IDEA funding refers to financial support provided by the Individuals with Disabilities Education Act (IDEA) to help schools meet the needs of students with disabilities. This funding helps cover the costs of special education services, technology, teacher training, evaluations, and other resources necessary for students receiving an Individualized Education Program (IEP) to succeed. IDEA funding plays a crucial role in ensuring that students with disabilities have equal access to education and the support they need to reach their full potential.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

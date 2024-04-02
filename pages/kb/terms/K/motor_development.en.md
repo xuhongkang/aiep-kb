@@ -1,0 +1,4 @@
+# Motor Development
+Motor Development: Motor development refers to how well a child can move their body and use their muscles. If a student has motor development concerns, it means they may have trouble with skills like running, jumping, drawing, or using scissors. These skills are important for everyday activities and learning, so it's helpful for the school to know if a student needs extra support in this area. A physical therapist or other specialists might work with the student to improve their motor skills through activities and exercises. By addressing motor development needs, the student can become more confident and independent in their movements.
+
+You can find more about this at: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9)

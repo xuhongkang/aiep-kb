@@ -1,0 +1,4 @@
+# Summative ELPAC: Overall Score, Oral Language Score/Level, Written Language Score/Level
+Summative ELPAC: Overall Score, Oral Language Score/Level, Written Language Score/Level: The Summative ELPAC is a test given to English Learners to measure how well they know and use English. It includes scores for oral language and written language. The overall score shows how well the student is doing in English. The oral language score focuses on speaking and listening skills, while the written language score looks at reading and writing abilities. These scores help teachers understand the student's English language proficiency.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49)

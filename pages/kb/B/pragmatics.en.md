@@ -1,3 +1,0 @@
-# Pragmatics
-Pragmatics: Pragmatics is a branch of linguistics that deals with how language is used in social contexts. It focuses on understanding the ways in which people use language to communicate effectively in different situations. Pragmatics looks at the meaning behind words, beyond just the literal definitions. It involves understanding social cues, intentions, and implications when using language. For example, knowing when to say 'thank you' or understanding sarcasm are aspects of pragmatics. It helps individuals navigate social interactions and interpret language beyond just words.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

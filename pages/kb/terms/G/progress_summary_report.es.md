@@ -1,0 +1,4 @@
+# Informe resumido de progreso
+Informe resumido de progreso: Un informe resumido del progreso es un documento que le indica el desempeño de su hijo en su Programa de Educación Individualizado (IEP). Muestra si su hijo está mejorando en cuanto a las metas establecidas en su IEP. El informe se le debe entregar con regularidad, como cuando se entregan las boletas de calificaciones a otros padres. Mostrará ejemplos de cómo su hijo está mejorando en áreas específicas, como las matemáticas o la lectura. Es importante que hable con los maestros de su hijo para asegurarse de que están progresando, de modo que no se sorprenda durante las reuniones sobre la educación de su hijo.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=16](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=16)

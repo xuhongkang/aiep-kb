@@ -1,0 +1,4 @@
+# Personalized Learning Tools
+Personalized Learning Tools: An Individualized Education Program (IEP) is a special plan made for your child at school to help them learn better. It's made just for your child and looks at what they need to do well in school. The plan is created with the help of you as the parent, the school team, and sometimes a doctor. It's like a contract that says what help your child will get and how they will get it. The plan can change as your child's needs change, and the school needs your permission to start it. The IEP is a way to make sure your child gets the help they need to succeed in school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=57](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=57)

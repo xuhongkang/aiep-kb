@@ -1,0 +1,4 @@
+# Equipos
+Equipos: El equipo en el contexto de un plan educativo individualizado (IEP) se refiere a las herramientas o dispositivos que pueden ayudar a un estudiante a aprender mejor. Esto puede incluir cosas como dispositivos de tecnología de asistencia, servicios de baja incidencia o materiales especializados. El equipo del IEP decide si un estudiante necesita algún equipo especial para alcanzar sus metas educativas. Si un estudiante necesita equipo, el equipo especificará qué tipo de dispositivos, servicios o materiales se requieren para apoyar el aprendizaje del estudiante. Es importante que el equipo del IEP considere y analice el uso de cualquier equipo que pueda beneficiar al estudiante para acceder al plan de estudios y progresar en la escuela.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=118](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=118)

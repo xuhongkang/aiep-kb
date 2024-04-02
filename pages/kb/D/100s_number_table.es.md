@@ -1,3 +1,0 @@
-# Tabla De Números 100
-Tabla De Números 100: Una tabla de números de 100 es una cuadrícula que contiene números del 1 al 100 en filas y columnas. Es una herramienta útil para enseñar a los jóvenes estudiantes sobre los patrones numéricos, el conteo y las operaciones aritméticas básicas. Al usar la tabla de números de 100, los estudiantes pueden ver visualmente cómo los números avanzan del 1 al 100, lo que les ayuda a desarrollar el sentido numérico y a familiarizarse con las secuencias numéricas.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

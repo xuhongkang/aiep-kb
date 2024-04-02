@@ -1,3 +1,0 @@
-# Health
-Health: Health refers to the overall well-being of an individual, including physical, mental, and emotional aspects. It involves making healthy choices, such as eating nutritious foods, staying active, getting enough sleep, and managing stress. Good health allows people to function at their best and enjoy life to the fullest. It is important for students to maintain good health to support their learning abilities and overall development.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

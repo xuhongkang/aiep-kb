@@ -1,0 +1,4 @@
+# Scores by Domain: Listening, Speaking, Reading, Writing
+Scores by Domain: Listening, Speaking, Reading, Writing: Scores in the IEP are like grades in different subjects. There are four main areas: Listening, Speaking, Reading, and Writing. These scores help teachers and parents see how well a student is doing in each of these areas. If a student is taking alternative tests instead of the regular ones, that information should also be included. It's important to track a student's progress on goals from previous IEPs, and also to note any specific assessments or screenings they've had, like hearing or vision tests.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51)

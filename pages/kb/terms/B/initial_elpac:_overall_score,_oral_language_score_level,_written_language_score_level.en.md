@@ -1,0 +1,4 @@
+# Initial ELPAC: Overall Score, Oral Language Score/Level, Written Language Score/Level
+Initial ELPAC: Overall Score, Oral Language Score/Level, Written Language Score/Level: The Initial ELPAC is a test to see how well a student who is learning English understands and uses the language. The Overall Score shows how the student did on the test as a whole. The Oral Language Score/Level and Written Language Score/Level show how the student did specifically in speaking and writing English. If a student needs extra help during the test, they can get designated supports or accommodations to make it easier. The IEP team decides if the student needs these supports or accommodations. Remember, only one part of the test can be exempted to get an overall score.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=76](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=76)

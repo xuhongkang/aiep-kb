@@ -1,3 +1,0 @@
-# Glossaries
-Glossaries: Glossaries are like dictionaries that provide definitions and explanations of terms used in a specific field or subject. In the context of education, a glossary can help parents understand the language and terminology commonly used in Individualized Education Programs (IEPs). By referring to a glossary, parents can clarify any unfamiliar terms and better advocate for their child's educational needs.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

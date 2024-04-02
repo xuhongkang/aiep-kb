@@ -1,0 +1,4 @@
+# Próxima evaluación
+Próxima evaluación: La «próxima evaluación» es cuando el equipo escolar decide si su hijo necesita más pruebas para ayudar a crear su Plan de Educación Individualizado (IEP). Esta evaluación se hace cada tres años. La escuela comprueba si ha analizado toda la información que tiene sobre su hijo, como los resultados de las pruebas y las observaciones del maestro. Si creen que se necesitan más pruebas, realizarán evaluaciones específicas. Si no es necesario realizar más pruebas, le explicarán por qué. Es importante que participe en este proceso de toma de decisiones, pero no se requiere su firma.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=111](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=111)

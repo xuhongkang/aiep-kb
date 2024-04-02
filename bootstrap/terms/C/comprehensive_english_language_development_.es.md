@@ -1,0 +1,4 @@
+# Desarrollo integral del idioma inglés (ELD integral)
+Desarrollo integral del idioma inglés (ELD integral): El desarrollo integral del idioma inglés (Comprehensive ELD) es cuando un estudiante recibe apoyo para aprender inglés en diferentes materias, como matemáticas y ciencias. Esta ayuda adicional es para los estudiantes que aún están aprendiendo inglés. Incluye cosas como usar un diccionario bilingüe o proporcionar explicaciones en el idioma principal del estudiante para ayudarlo a entender mejor las lecciones. El objetivo es garantizar que el estudiante pueda acceder al plan de estudios aunque todavía esté aprendiendo inglés.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=31](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=31)

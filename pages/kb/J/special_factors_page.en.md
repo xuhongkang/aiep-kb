@@ -1,3 +1,0 @@
-# Special Factors Page
-Special Factors Page: The Special Factors Page is a section of the Individualized Education Program (IEP) where specific considerations related to the student's education are documented. This page addresses factors such as behavior, language needs, communication, vision, hearing, assistive technology, and whether the student is achieving age-appropriate academic expectations. It helps the IEP team ensure that the student's unique needs are being met in the educational setting.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

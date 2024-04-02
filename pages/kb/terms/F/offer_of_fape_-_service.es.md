@@ -1,0 +1,4 @@
+# Oferta de la FAPE - Servicio
+Oferta de la FAPE - Servicio: El término «Oferta de servicio de la FAPE» se refiere a los servicios educativos que se ofrecen a un niño con una discapacidad como parte de su Plan de Educación Individualizado (IEP). Estos servicios se brindan para ayudar al niño a acceder al plan de estudios general y cumplir con los estándares educativos. Es importante que estos servicios se adapten a las necesidades y objetivos específicos del niño, tal como se describe en su IEP. El objetivo es garantizar que el niño reciba una educación adecuada que satisfaga sus necesidades individuales y lo ayude a tener éxito en la escuela.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=147](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=147)

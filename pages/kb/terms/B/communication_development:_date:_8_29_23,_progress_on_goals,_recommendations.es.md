@@ -1,0 +1,4 @@
+# Desarrollo de la comunicación: Fecha: 29/8/23, Progreso en las metas, recomendaciones
+Desarrollo de la comunicación: Fecha: 29/8/23, Progreso en las metas, recomendaciones: En este informe, hablan de lo bien que le va a su hijo con la comunicación, como hablar y escuchar, y de otras habilidades importantes, como mover el cuerpo y controlar sus sentimientos. También mencionan cualquier necesidad médica que tenga su hijo. El informe incluirá los avances en cuanto a las metas establecidas para su hijo, cualquier recomendación para el futuro y quién es responsable de ayudar a su hijo a alcanzar esas metas. Es como un plan para ayudar a su hijo a dar lo mejor de sí en la escuela.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=42](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=42)

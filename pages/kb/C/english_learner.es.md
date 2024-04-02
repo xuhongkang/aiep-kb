@@ -1,3 +1,0 @@
-# Estudiante De Inglés
-Estudiante De Inglés: Un estudiante que aprende inglés se refiere a un estudiante que está en proceso de aprender inglés como segundo idioma. Estos estudiantes pueden tener diferentes niveles de dominio del inglés y pueden necesitar apoyo adicional para participar plenamente y tener éxito en entornos académicos donde el inglés es el idioma principal de enseñanza. Las escuelas ofrecen programas y recursos especializados para ayudar a los estudiantes de inglés a desarrollar sus habilidades lingüísticas y sus conocimientos académicos.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

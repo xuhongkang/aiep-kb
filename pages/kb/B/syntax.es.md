@@ -1,3 +1,0 @@
-# Sintaxis
-Sintaxis: La sintaxis se refiere a la disposición de las palabras para crear oraciones bien formadas en un idioma. Incluye las reglas gramaticales, el orden de las palabras, la puntuación y la estructura de las oraciones. La sintaxis es esencial para una comunicación y una comprensión claras tanto en el lenguaje hablado como en el escrito. Ayuda a transmitir el significado de forma precisa y eficaz. Comprender la sintaxis es importante para desarrollar habilidades lingüísticas sólidas al escribir y hablar.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

@@ -1,3 +1,0 @@
-# Proporcione Definiciones
-Proporcione Definiciones: Un Programa de Educación Individualizado (IEP) es un plan personalizado creado para los estudiantes con discapacidades a fin de garantizar que reciban la educación y los servicios especiales adecuados. Incluye las metas, las adaptaciones y los servicios de apoyo necesarios para que el estudiante tenga éxito en la escuela. El IEP es desarrollado por un equipo que incluye a padres, maestros y especialistas, y se revisa con regularidad para hacer un seguimiento del progreso y hacer los ajustes necesarios.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

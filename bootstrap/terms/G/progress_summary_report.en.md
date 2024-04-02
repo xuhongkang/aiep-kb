@@ -1,0 +1,4 @@
+# Progress Summary Report
+Progress Summary Report: A progress summary report is a document that tells you how your child is doing in their Individualized Education Program (IEP). It shows if your child is getting better at the goals set in their IEP. The report should be given to you regularly, like when report cards are given to other parents. It will show examples of how your child is improving in specific areas, like math or reading. It's important for you to talk to your child's teachers to make sure they are making progress, so you're not surprised during meetings about your child's education.
+
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=16](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=16)

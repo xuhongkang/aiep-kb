@@ -1,0 +1,4 @@
+# Evaluación del rendimiento y el progreso de los estudiantes de California (CAASPP)
+Evaluación del rendimiento y el progreso de los estudiantes de California (CAASPP): La Evaluación del desempeño y el progreso de los estudiantes de California (CAASPP) es una prueba que se realiza a los estudiantes de California para ver qué tan bien les va en la escuela. Ayuda a los maestros y a los padres a saber si los estudiantes están aprendiendo lo que necesitan saber. El examen es importante porque ayuda a las escuelas a asegurarse de que los estudiantes reciben una buena educación. Si los estudiantes necesitan ayuda en ciertas áreas, los resultados del examen pueden ayudar a los maestros a crear un plan para apoyarlos mejor.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49)

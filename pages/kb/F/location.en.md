@@ -1,3 +1,0 @@
-# Location
-Location: The term 'Location' in relation to an Individualized Education Program (IEP) refers to the physical setting where your child's educational services and supports are provided. This could be in a general education classroom, a special education classroom, a resource room, or a combination of settings depending on your child's needs. The location is an important consideration in developing an IEP to ensure that the environment is conducive to your child's learning and development.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

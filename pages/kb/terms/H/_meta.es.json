@@ -1,0 +1,21 @@
+{
+    "emergency_circumstances_program": "Programa de circunstancias de emergencia",
+    "instruction,_services,_or_both": "Instrucción, servicios o ambos",
+    "emergency_conditions": "Condiciones de emergencia",
+    "service_delivery_methods": "Métodos de prestación de servicios",
+    "teacher_provider-posted_lessons,_asynchronous": "Lecciones publicadas por el profesor/proveedor, asincrónicas",
+    "personalized_learning_tools": "Herramientas de aprendizaje personalizadas",
+    "scheduled_email_check-ins": "Registros programados por correo electrónico",
+    "virtual_class_group_meetings,_synchronous": "Reuniones virtuales de clase/grupo, sincrónicas",
+    "scheduled_teacher_provider_appointments": "Citas programadas con maestro/proveedor",
+    "virtual_office_hours_drop-in": "Horario de oficina virtual/sin cita previa",
+    "specialized_academic_instruction_and_related_services": "Instrucción académica especializada y servicios relacionados",
+    "services": "Servicios",
+    "individual_group": "Individual/Grupo",
+    "frequency_&_duration": "Frecuencia y duración",
+    "service_delivery_method": "Método (s) de prestación de servicios",
+    "iep_goals_to_be_addressed": "Metas del IEP que deben abordarse",
+    "transition_services": "Servicios de transición",
+    "supplementary_aids_and_services": "Ayudas y servicios complementarios",
+    "additional_comments_or_provisions": "Comentarios o disposiciones adicionales"
+}

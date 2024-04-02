@@ -1,0 +1,4 @@
+# Fortalezas, preferencias e intereses
+Fortalezas, preferencias e intereses: En esta sección del IEP, queremos saber en qué es bueno su hijo, qué le gusta hacer y qué es lo que le interesa. Esto nos ayuda a entender cómo ayudarlo a alcanzar sus metas en la escuela. Es importante que piense en qué es bueno su hijo, qué prefiere y qué es lo que le gusta hacer. Esto nos ayuda a crear un plan que se adapte a las fortalezas e intereses de su hijo. Durante esta parte de la reunión, analizamos las fortalezas, preferencias e intereses de su hijo y hacemos los cambios necesarios para ayudarlo a tener éxito en la escuela.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=137](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=137)

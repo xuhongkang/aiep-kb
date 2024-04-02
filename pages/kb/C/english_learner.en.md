@@ -1,3 +1,0 @@
-# English Learner
-English Learner: An English Learner refers to a student who is in the process of learning English as a second language. These students may have varying levels of proficiency in English and may require additional support in order to fully participate and succeed in academic settings where English is the primary language of instruction. Schools provide specialized programs and resources to help English Learners develop their language skills and academic knowledge.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

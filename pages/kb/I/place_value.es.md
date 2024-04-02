@@ -1,3 +1,0 @@
-# Valor Posicional
-Valor Posicional: El valor posicional es el valor representado por un dígito en un número, según su posición dentro del número. Cada dígito tiene un valor posicional: la posición más a la derecha representa los unos, la siguiente posición representa las decenas, luego los cientos, los miles, etc. Comprender el valor posicional ayuda a leer y escribir los números con precisión y a realizar operaciones matemáticas de manera eficiente.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

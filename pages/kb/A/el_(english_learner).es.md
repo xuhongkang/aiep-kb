@@ -1,3 +1,0 @@
-# El (Estudiante De Inglés)
-El (Estudiante De Inglés): EL (estudiante de inglés) se refiere a un estudiante que está en proceso de aprender inglés como segundo idioma. Es posible que estos estudiantes necesiten apoyo adicional en el aula para ayudarlos a comprender las lecciones y participar en ellas. Las escuelas ofrecen programas y recursos especializados para ayudar a los estudiantes de EL a desarrollar su dominio del inglés y, al mismo tiempo, cumplir con los estándares académicos en otras materias.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

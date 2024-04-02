@@ -1,0 +1,4 @@
+# Autorización para divulgar la información de los estudiantes para la facturación de Medi-Cal/Medicaid
+Autorización para divulgar la información de los estudiantes para la facturación de Medi-Cal/Medicaid: La autorización para divulgar la información de los estudiantes para la facturación de Medi-Cal/Medicaid es un formulario que permite a la escuela compartir los registros de su hijo con Medi-Cal/Medicaid para pagar su educación especial y los servicios relacionados. Este formulario debe estar firmado por el estudiante o su representante, y en él se especifica qué información se puede compartir y con qué propósito. Asegúrese de que el formulario esté completo y firmado para garantizar que su hijo reciba los servicios necesarios.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=72](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=72)

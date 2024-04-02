@@ -1,0 +1,4 @@
+# Desarrollo de la comunicación del lenguaje y el habla
+Desarrollo de la comunicación del lenguaje y el habla: El desarrollo de la comunicación del lenguaje y el habla tiene que ver con qué tan bien su hijo habla y se comunica con los demás. Analiza aspectos como la forma en que dicen las palabras, su voz, la fluidez con la que hablan y si entienden y usan bien el lenguaje. El plan educativo individualizado (IEP) incluirá metas y objetivos para ayudar a su hijo a mejorar en estas áreas. También puede incluir servicios como la terapia del habla para mejorar sus habilidades del habla y el lenguaje. Si su hijo tiene problemas para hablar o entender a los demás, el equipo del IEP trabajará en conjunto para crear un plan que lo ayude a comunicarse mejor.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=59](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=59)

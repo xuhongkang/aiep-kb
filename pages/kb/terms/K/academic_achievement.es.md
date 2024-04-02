@@ -1,0 +1,4 @@
+# Rendimiento académico
+Rendimiento académico: El rendimiento académico significa qué tan bien le está yendo a su hijo en la escuela. Analiza aspectos como la lectura, las matemáticas y otras habilidades que necesitan aprender. El equipo del IEP comprueba si hay una gran diferencia entre lo que su hijo puede hacer y lo que realmente está haciendo en la escuela. Analizan los puntajes de los exámenes, la información que usted proporciona como padre y los comentarios de los maestros sobre el desempeño de su hijo en el aula. También tienen en cuenta la edad de su hijo y otros detalles importantes. El equipo quiere asegurarse de que su hijo reciba el apoyo adecuado para mejorar su aprendizaje.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=17](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=17)

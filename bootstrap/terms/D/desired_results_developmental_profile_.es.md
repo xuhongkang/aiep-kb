@@ -1,0 +1,4 @@
+# Perfil de desarrollo de resultados deseados (DRDP)
+Perfil de desarrollo de resultados deseados (DRDP): El perfil de desarrollo de resultados deseados (DRDP) es una prueba para niños pequeños de 3, 4 y 5 años que aún no están en la escuela. Ayuda a ver cómo les va en su desarrollo. Si un niño necesita ayuda durante la prueba, el equipo puede anotar cualquier forma especial de ayudarlo a dar lo mejor de sí mismo. Algunas maneras de ayudar pueden incluir el uso de diferentes herramientas, como el lenguaje de señas, tarjetas ilustradas o incluso tiempo adicional para pensar y responder. El objetivo es asegurarse de que el niño pueda sentirse cómodo y dar lo mejor de sí durante la prueba.
+
+Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=5](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=5)

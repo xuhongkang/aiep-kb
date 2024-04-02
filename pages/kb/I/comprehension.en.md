@@ -1,3 +1,0 @@
-# Comprehension
-Comprehension: Comprehension refers to a person's ability to understand and make sense of information they read, hear, or see. It involves being able to connect new information to what they already know, ask questions to clarify meaning, and recall and retell important details. Comprehension is essential for learning in all subject areas and is a key skill needed for success at school and in everyday life.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

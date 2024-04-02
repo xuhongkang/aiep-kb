@@ -1,0 +1,4 @@
+# Soportes designados alternativos no integrados de ELPAC
+Soportes designados alternativos no integrados de ELPAC: Los apoyos designados alternativos no integrados del ELPAC son ayuda o herramientas adicionales que pueden utilizar un estudiante con necesidades especiales al realizar un examen llamado Evaluaciones de dominio del idioma inglés de California (ELPAC). Estos apoyos no están incluidos en el examen en sí, sino que se proporcionan por separado para ayudar al estudiante a entender y responder a las preguntas. Pueden incluir cosas como dispositivos de asistencia, ayudas visuales o una forma diferente de responder a las preguntas. El equipo del IEP del estudiante decide si estos apoyos son necesarios y luego elige los más adecuados para el estudiante.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50)

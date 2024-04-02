@@ -1,3 +1,0 @@
-# Sbac With Accommodations Embedded
-Sbac With Accommodations Embedded: SBAC stands for Smarter Balanced Assessment Consortium, a group that develops standardized tests. Accommodations embedded means that special adjustments or supports are built directly into the test for students with disabilities or special needs. These accommodations help students access the test content in a way that aligns with their Individualized Education Program (IEP) goals and needs.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

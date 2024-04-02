@@ -1,3 +1,0 @@
-# Picture/Symbols/Words
-Picture/Symbols/Words: Picture symbols words, also known as Visual Supports, are tools used to help students with communication difficulties express their needs, thoughts, and ideas. These tools can include pictures, symbols, or words to assist in understanding and conveying information. They are often used in Individualized Education Programs (IEPs) to support students in achieving their learning goals and improving their communication skills.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

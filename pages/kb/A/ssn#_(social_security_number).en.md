@@ -1,3 +1,0 @@
-# Ssn# (Social Security Number)
-Ssn# (Social Security Number): A Social Security Number (SSN#) is a unique nine-digit number assigned to individuals by the Social Security Administration for tax and identification purposes. It is used to track earnings for Social Security benefits and other government programs. Your child may need to provide their SSN# when applying for an Individualized Education Program (IEP) to ensure accurate identification and record-keeping.
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

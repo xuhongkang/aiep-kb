@@ -1,3 +1,0 @@
-# Morfología
-Morfología: La morfología es el estudio de la estructura de las palabras y cómo se forman. Se centra en las unidades de significado más pequeñas del lenguaje, como los prefijos, los sufijos y las raíces. Al examinar la morfología de las palabras, los lingüistas pueden entender mejor cómo se juntan las palabras y cómo transmiten el significado. Este campo de estudio es importante para el desarrollo del lenguaje y puede ayudar a las personas a mejorar su vocabulario y su comprensión del lenguaje.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

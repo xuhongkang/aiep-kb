@@ -1,0 +1,4 @@
+# Multiplication Table
+Multiplication Table: An Individualized Education Program (IEP) is a plan that helps teachers support children who may have difficulty learning in a traditional classroom setting. The plan includes specific goals and strategies to help the child succeed in school. The IEP process involves a meeting with teachers, parents, and other professionals to create a tailored plan for the child's education. The goals in the IEP are usually focused on areas like reading, math, or social skills. The goals are designed to be realistic and match the child's unique learning style. The IEP is a tool to ensure that children with learning challenges get the help they need to do well in school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=14](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=14)

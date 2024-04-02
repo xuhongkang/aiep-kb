@@ -1,3 +1,0 @@
-# Estado Residencial
-Estado Residencial: El estado residencial se refiere al tipo de acuerdo de vivienda que tiene un estudiante. Indica si un estudiante vive en casa con su familia, en un centro residencial o en cualquier otra situación de vivienda. Entender el estatus de residencia de un estudiante es importante para crear un programa educativo individualizado (IEP), ya que puede afectar el apoyo y los servicios que pueden ser necesarios para ayudar al estudiante a tener éxito en un entorno académico.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

@@ -1,0 +1,4 @@
+# Parent Input and Concerns Relevant to Educational Progress
+Parent Input and Concerns Relevant to Educational Progress: Parent Input and Concerns Relevant to Educational Progress means that parents get to share their thoughts and worries about how their child is doing in school during the IEP Team meeting. Parents can talk about what their child is good at, what they like, and any concerns they have about their child's learning. It's essential for parents to communicate openly with teachers and other school staff to make sure their child is making progress towards their IEP goals. It helps avoid surprises during meetings and conferences.
+
+You can find more about this at: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9)

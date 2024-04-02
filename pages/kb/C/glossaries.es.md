@@ -1,3 +1,0 @@
-# Glosarios
-Glosarios: Los glosarios son como diccionarios que proporcionan definiciones y explicaciones de los términos utilizados en un campo o tema específico. En el contexto de la educación, un glosario puede ayudar a los padres a entender el lenguaje y la terminología que se utilizan habitualmente en los programas educativos individualizados (IEP). Al consultar un glosario, los padres pueden aclarar cualquier término desconocido y defender mejor las necesidades educativas de sus hijos.
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

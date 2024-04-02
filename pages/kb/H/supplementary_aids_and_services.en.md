@@ -1,3 +1,0 @@
-# Supplementary Aids And Services
-Supplementary Aids And Services: Supplementary aids and services are extra supports and resources provided to students with disabilities to help them succeed in school. These aids and services can include things like assistive technology, visual aids, preferential seating, extra time for tests, and note-taking assistance. They are meant to give students the extra help they need to access the curriculum, participate in class activities, and reach their educational goals.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

@@ -1,3 +1,0 @@
-# 100S Number Table
-100S Number Table: A 100s Number Table is a grid that contains numbers from 1 to 100 in rows and columns. It is a useful tool for teaching young students about number patterns, counting, and basic arithmetic operations. By using the 100s Number Table, students can visually see how numbers progress from 1 to 100, helping them develop number sense and familiarity with numerical sequences.
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf)

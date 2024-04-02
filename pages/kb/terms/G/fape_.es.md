@@ -1,0 +1,4 @@
+# FAPE (Educación Pública Apropiada y Gratuita)
+FAPE (Educación Pública Apropiada y Gratuita): FAPE son las siglas de Educación Pública Apropiada y Gratuita. Significa que su hijo tiene derecho a recibir una buena educación sin costo alguno para usted. La escuela debe asegurarse de que su hijo reciba la ayuda que necesita para aprender, en función de sus necesidades únicas. Esta ayuda se describe en el Programa de educación individualizada (IEP), que es un plan especial diseñado exclusivamente para su hijo. La escuela debe seguir este plan para asegurarse de que su hijo reciba el apoyo que se merece, tanto dentro como fuera del aula. La educación de su hijo debe cumplir con los estándares estatales y estar supervisada por la escuela pública.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=147](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=147)

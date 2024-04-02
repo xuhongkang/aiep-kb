@@ -1,0 +1,4 @@
+# Equipment
+Equipment: Equipment in the context of an Individualized Education Plan (IEP) refers to tools or devices that can help a student learn better. This can include things like assistive technology devices, low incidence services, or specialized materials. The IEP team decides if a student needs any special equipment to meet their educational goals. If a student needs equipment, the team will specify what type of devices, services, or materials are required to support the student's learning. It's important for the IEP team to consider and discuss the use of any equipment that may benefit the student in accessing the curriculum and making progress in school.
+
+You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=118](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=118)

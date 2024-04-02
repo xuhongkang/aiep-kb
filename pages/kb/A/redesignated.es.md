@@ -1,3 +1,0 @@
-# Redesignado
-Redesignado: La redesignación se refiere a un estudiante que anteriormente se identificó como que tenía necesidades de educación especial, como una discapacidad de aprendizaje, pero que ha demostrado un progreso significativo y ya no necesita servicios de educación especial. Este proceso implica que un equipo de profesionales, incluidos padres, maestros y especialistas, evalúe el progreso del estudiante y determine si el estudiante puede tener éxito en un entorno de educación general sin apoyo adicional.
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf)

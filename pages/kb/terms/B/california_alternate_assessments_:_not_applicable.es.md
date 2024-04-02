@@ -1,0 +1,4 @@
+# Evaluaciones alternativas de California (CAA): no se aplican
+Evaluaciones alternativas de California (CAA): no se aplican: Las evaluaciones alternativas de California (CAA) son exámenes que se realizan a los estudiantes con discapacidades importantes para medir su progreso en materias como inglés, matemáticas y ciencias. Si el equipo del IEP de un estudiante decide que los exámenes regulares, como el CAASPP o el SBAC, no son adecuados, puede optar por la CAA en su lugar. En este caso, el estudiante no participa en las evaluaciones regulares y el equipo del IEP ha determinado que la CAA es la mejor manera de medir el aprendizaje del estudiante.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51)

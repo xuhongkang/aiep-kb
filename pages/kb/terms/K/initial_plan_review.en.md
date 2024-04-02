@@ -1,0 +1,4 @@
+# Initial Plan Review
+Initial Plan Review: Initial Plan Review means having a meeting to check on a student's progress and make a new plan for what they should learn in the upcoming year. This meeting should happen every year within 365 days of the last meeting. An Eligibility Evaluation is to see if the student still needs special education, while a Plan Review is about setting new goals and services based on test results. In these meetings, the team discusses things like how the student is doing now, what services they need, and where they should learn.
+
+You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=8](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=8)

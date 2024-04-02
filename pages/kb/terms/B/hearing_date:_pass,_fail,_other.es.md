@@ -1,0 +1,4 @@
+# Fecha de la audiencia: Aprobar, rechazar, otra
+Fecha de la audiencia: Aprobar, rechazar, otra: La «fecha de la audiencia» consiste en decidir si algo se aprobó o no con base en un proceso justo. Significa que tiene ciertos derechos durante la audiencia, como que una persona con conocimientos presida la reunión, el derecho a tener a alguien con usted que conozca las leyes de educación especial y el derecho a presentar pruebas y argumentos. También puede hacer preguntas a los testigos y recibir un registro escrito o electrónico de la audiencia. Tiene derecho a solicitar una prórroga, a que su hijo esté presente y a elegir si la audiencia será pública o privada. La otra parte debe informarle sobre los problemas y las soluciones propuestas antes de la audiencia.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117)

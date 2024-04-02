@@ -1,0 +1,4 @@
+# Servicios para niños de California (CCS)
+Servicios para niños de California (CCS): Los Servicios para Niños de California (CCS) son un programa que ayuda a los niños que pueden necesitar apoyo adicional con su salud o discapacidades. El CCS trabaja con los niños para garantizar que reciban la ayuda que necesitan en la escuela. Brindan servicios especiales que están incluidos en el Plan Educativo Individualizado (IEP) del estudiante para garantizar que el estudiante pueda aprender de la mejor manera posible. Es importante hablar sobre el CCS en la reunión del IEP y hacer un seguimiento de los servicios que brindan.
+
+Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=148](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=148)
