@@ -1,4 +1,0 @@
-# Reuniones virtuales de clase/grupo, sincrónicas
-Reuniones virtuales de clase/grupo, sincrónicas: Las reuniones virtuales de clase o grupo, sincrónicas, son cuando todos se reúnen al mismo tiempo en un espacio virtual, como en línea o en la computadora. Es como tener una videollamada con la escuela de su hijo y otras personas importantes para hablar sobre el Plan Educativo Individualizado (IEP) de su hijo. Durante estas reuniones, puede analizar, crear y revisar el IEP de su hijo para asegurarse de que satisfaga sus necesidades. Es muy importante seguir las reglas de estas reuniones y trabajar en conjunto con la escuela para planificar la experiencia de educación especial de su hijo en la escuela.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=6](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=6)

@@ -1,4 +1,0 @@
-# Decoding
-Decoding: When we talk about "decoding" in an Individualized Education Program (IEP), it means helping students with disabilities understand information in a way that works best for them. For example, if a student communicates using sign language, a qualified interpreter can help translate spoken language into sign language so the student can understand. This can also include converting written materials into formats like Braille for students who are visually impaired. The goal is to make sure students have the support they need to learn and succeed in school.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2)

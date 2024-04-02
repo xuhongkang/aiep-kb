@@ -1,4 +1,0 @@
-# Padre/tutor/sustituto
-Padre/tutor/sustituto: Un padre sustituto ayuda cuando no se puede encontrar a uno de los padres y es designado para ayudar a tomar decisiones en favor de un niño con una discapacidad. Cuando un hijo cumple 18 años, por lo general toma las riendas de sus propias decisiones educativas, a menos que se determine que no puede hacerlo. Cuando se evalúa a un niño para recibir educación especial, las evaluaciones deben ser justas y no basarse en la raza, la cultura o el género. El plan de evaluación debe ser aprobado por los padres o tutores, y ellos pueden autorizar el acceso a los beneficios del seguro médico de su hijo.
-
-Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=0](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=0)

@@ -1,4 +1,0 @@
-# Fecha de finalización
-Fecha de finalización: La «fecha de finalización» es la fecha en que terminarán los servicios de educación especial para su hijo. Es importante que el equipo del IEP y el titular de los derechos educativos lleguen a un acuerdo sobre esta fecha. Esta fecha nunca cambiará, incluso si su hijo se va y regresa más tarde con un nuevo IEP. La fecha de finalización debe ser exacta y no se puede cambiar más adelante. Es esencial documentar esta fecha en el registro del estudiante para que todos sepan cuándo terminarán los servicios de educación especial para su hijo.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=21](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=21)

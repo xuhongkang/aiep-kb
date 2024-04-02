@@ -1,4 +1,0 @@
-# Programa regular para la primera infancia
-Programa regular para la primera infancia: Un programa regular para la primera infancia es un programa escolar normal para niños pequeños que puede incluir a niños con necesidades especiales. Es como una clase de preescolar o jardín de infantes donde su hijo puede aprender y jugar. Los maestros de este programa pueden brindar ayuda adicional a los niños que la necesitan para asegurarse de que puedan aprender y divertirse como todos los demás. Este programa por lo general se lleva a cabo en una escuela y puede durar al menos diez horas a la semana. Es importante que su hijo se sienta incluido y apoyado mientras aprende y crece.
-
-Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=3](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=3)

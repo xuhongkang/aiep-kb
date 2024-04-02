@@ -1,4 +1,0 @@
-# Pruebas basadas en estándares en español (STS)
-Pruebas basadas en estándares en español (STS): Los exámenes basados en estándares en español (STS) son exámenes que se realizan a los estudiantes en español para ver qué tan bien entienden el material que se enseña en la escuela. Estas pruebas ayudan a los maestros a determinar qué necesita aprender cada estudiante y cómo le va en sus clases. Si su hijo se presenta a estas pruebas, la escuela podría proporcionarle ayuda o herramientas especiales para apoyar su aprendizaje. Si tiene alguna pregunta sobre estas pruebas, siempre puede preguntar al maestro de su hijo o a la escuela para obtener más información.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49)

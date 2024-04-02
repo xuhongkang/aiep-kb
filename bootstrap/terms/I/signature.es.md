@@ -1,4 +1,0 @@
-# Firma
-Firma: La firma es su nombre escrito en un papel para demostrar que está de acuerdo con algo. Después de una reunión sobre el plan educativo de su hijo, es posible que le pidan que firme un documento para demostrar que estuvo presente en la reunión, pero firmarlo no significa que esté de acuerdo con todo lo incluido en el plan. Si hay partes del plan con las que no está de acuerdo, puede anotar las partes con las que no está de acuerdo en el mismo papel en el que firma. Si solo está de acuerdo con algunas partes, puede decírselo a la escuela para que puedan iniciar esos servicios para su hijo. Una vez que firme el documento, usted autoriza a la escuela a ayudar a su hijo con la educación especial.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80)

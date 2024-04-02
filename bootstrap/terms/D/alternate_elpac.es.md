@@ -1,4 +1,0 @@
-# ELPAC alternativo
-ELPAC alternativo: El ELPAC alternativo es un examen especial que algunos estudiantes con necesidades únicas pueden realizar en lugar del examen regular de inglés. El equipo del estudiante, incluidos los maestros y los padres, decide si este examen alternativo es la mejor opción para el estudiante. Antes del examen, el equipo puede elegir apoyos específicos, como diferentes formas de responder a las preguntas o usar herramientas especiales para ayudar al estudiante a dar lo mejor de sí mismo. Es importante asegurarse de que se satisfagan las necesidades del estudiante para ayudarlo a tener éxito durante esta evaluación.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=31](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=31)

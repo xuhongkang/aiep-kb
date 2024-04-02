@@ -1,4 +1,0 @@
-# Alojamientos
-Alojamientos: Las adaptaciones son cambios y apoyos que ayudan a su hijo a aprender mejor. Por ejemplo, es posible que tengan más tiempo para los exámenes, descansos para el cerebro, un lugar especial para sentarse o la ayuda del maestro. Estos cambios se basan en lo que su hijo necesita para que le vaya bien en la escuela. Las adaptaciones también pueden incluir opciones como el uso del lenguaje de señas, imágenes o equipos especiales para ayudar al aprendizaje. Recuerde que las adaptaciones tienen por objeto facilitarle las cosas a su hijo para que pueda tener éxito en la escuela.
-
-Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9)

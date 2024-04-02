@@ -1,4 +1,0 @@
-# Metas del IEP que deben abordarse
-Metas del IEP que deben abordarse: Las metas del IEP son cosas que los maestros y la escuela de su hijo quieren que logren. Estas metas están escritas en un plan especial llamado Plan de Educación Individualizado (IEP, por sus siglas en inglés). Es como un mapa que muestra cómo su hijo puede aprender y crecer en la escuela. Las metas del IEP son como metas u objetivos por los que su hijo debe esforzarse. Los maestros ayudarán a su hijo a alcanzar estas metas brindándole ayuda y apoyo especiales. Cada meta del IEP es importante y ayuda a su hijo a tener éxito en la escuela.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=18](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=18)

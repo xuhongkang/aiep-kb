@@ -1,4 +1,0 @@
-# Measurable Goals and Objectives
-Measurable Goals and Objectives: Measurable goals and objectives in an Individualized Education Plan (IEP) are like targets that show what your child should be able to do in a year. These goals are based on your child's needs as well as what they can already do and can improve on. The goals should be clear, specific, and easy to measure to see how well your child is progressing. They can focus on things like reading, writing, math, or speech, depending on what your child needs help with. These goals are usually developed by a team that includes you, teachers, and other school staff. The goals should be written in a way that anyone can understand and know who is responsible for helping your child reach them.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=42](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=42)

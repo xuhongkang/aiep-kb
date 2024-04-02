@@ -1,4 +1,0 @@
-# Certificado de finalización
-Certificado de finalización: Un certificado de finalización es un documento que se entrega a los estudiantes que han terminado sus requisitos de escuela secundaria pero no obtuvieron un diploma de escuela secundaria regular. Demuestra que completaron su programa educativo, incluso si no cumplieron con todos los requisitos estándar para obtener un diploma. Los padres o los estudiantes adultos deben estar informados antes de que se les otorgue este certificado, y hay reglas y formularios específicos que deben seguirse. El certificado es una alternativa al diploma y, por lo general, significa que ha completado los servicios de educación especial.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=138](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=138)

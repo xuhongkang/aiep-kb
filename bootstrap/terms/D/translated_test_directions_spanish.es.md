@@ -1,4 +1,0 @@
-# Instrucciones de examen traducidas al español
-Instrucciones de examen traducidas al español: Las instrucciones de examen traducidas al español significan dar instrucciones para los exámenes en español. Estas instrucciones ayudan a los estudiantes a entender lo que deben hacer durante el examen. Es posible que algunos estudiantes necesiten ayuda o herramientas adicionales para realizar los exámenes, como más tiempo o equipo especial. Es importante seguir las reglas para estos apoyos y obtener la aprobación si es necesario. Si un estudiante tiene problemas con su comportamiento durante los exámenes, se puede hacer un plan para ayudarlo a mejorar. El objetivo es que todos los estudiantes puedan participar en las pruebas y mostrar su progreso.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=41](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=41)

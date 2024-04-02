@@ -1,4 +1,0 @@
-# Distrito de residencia
-Distrito de residencia: El distrito de residencia se refiere al distrito en el que vive un estudiante. Es importante que la escuela conozca esta información para brindar el apoyo y los servicios adecuados. El distrito de residencia puede ser el lugar donde viven los padres o tutores del estudiante, o puede ser un distrito diferente en ciertas situaciones, por ejemplo, si el estudiante asiste a una escuela autónoma o si está en un programa específico. Conocer el distrito de residencia ayuda a garantizar que el estudiante reciba la ayuda que necesita en la escuela.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=29](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=29)

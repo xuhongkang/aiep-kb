@@ -1,4 +1,0 @@
-# Area of Need
-Area of Need: "Area of Need" refers to the specific area in which a student needs help or support in their education. It could be related to things like reading, math, behavior, or other skills. In the context of an Individualized Education Plan (IEP), this is where you describe what the student requires assistance with, and then set goals and objectives to address those needs. For example, if a student needs help with reading, the goal might be to improve their reading fluency by a certain percentage over the school year. It's important to identify these areas of need so the student can get the right support to succeed in school.
-
-You can find more about this at: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=28](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=28)

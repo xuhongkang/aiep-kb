@@ -1,4 +1,0 @@
-# Illustrated Glossaries
-Illustrated Glossaries: Illustrated glossaries are like picture dictionaries that help you understand words better. They use pictures to show the meaning of words so that it's easier for you to learn and remember them. In the context of Individualized Education Plans (IEPs), illustrated glossaries can be used to explain important terms related to special services that students may need in school, like sign language interpretation, audiological services, specialized vision services, orientation and mobility, Braille transcription, specialized orthopedic services, and reader services. These glossaries help parents and teachers understand and discuss these services in a clear and simple way during IEP meetings.
-
-You can find more about this at: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=36](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=36)

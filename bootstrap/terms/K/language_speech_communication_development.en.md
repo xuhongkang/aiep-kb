@@ -1,4 +1,0 @@
-# Language/Speech Communication Development
-Language/Speech Communication Development: Language/Speech Communication Development is about how well your child talks and communicates with others. It looks at things like how they say words, their voice, how smoothly they speak, and if they understand and use language well. The Individualized Education Plan (IEP) will include goals and objectives to help your child improve in these areas. It may also involve services like speech therapy to support their speech and language skills. If your child has trouble with talking or understanding others, the IEP team will work together to create a plan to help them communicate better.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=59](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=59)

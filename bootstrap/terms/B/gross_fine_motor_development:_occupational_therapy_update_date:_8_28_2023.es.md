@@ -1,4 +1,0 @@
-# Desarrollo de la motricidad bruta/fina: fecha de actualización de la terapia ocupacional: 28/8/2023
-Desarrollo de la motricidad bruta/fina: fecha de actualización de la terapia ocupacional: 28/8/2023: El desarrollo de la motricidad gruesa y fina se refiere a la forma en que un estudiante usa sus músculos grandes y pequeños para hacer cosas como correr, saltar, escribir o recoger objetos pequeños. La terapia ocupacional ayuda al estudiante con habilidades o necesidades específicas relacionadas con su desarrollo motor. Esta actualización trata de garantizar que el estudiante reciba la ayuda adecuada para mejorar sus capacidades físicas.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=129](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=129)

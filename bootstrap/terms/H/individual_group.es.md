@@ -1,4 +1,0 @@
-# Individual/Grupo
-Individual/Grupo: Los servicios individuales o grupales se refieren a las diferentes maneras en que su hijo puede recibir apoyo, tal como se describe en su Programa de educación individualizado (IEP). Estos servicios se pueden prestar de forma individual (individual) o en un entorno de grupos pequeños (grupo). Por ejemplo, su hijo puede recibir fisioterapia de forma individual o en grupo con otros niños. La decisión de si su hijo recibe los servicios de forma individual o grupal depende de sus necesidades particulares y de lo que es mejor para su aprendizaje.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=12](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=12)

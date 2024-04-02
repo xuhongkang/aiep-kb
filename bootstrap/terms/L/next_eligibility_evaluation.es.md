@@ -1,4 +1,0 @@
-# Próxima evaluación de elegibilidad
-Próxima evaluación de elegibilidad: La «Próxima evaluación de elegibilidad» es una reunión que ayuda a decidir si un estudiante aún reúne los requisitos para recibir servicios de educación especial. Si un estudiante ha dejado de recibir educación especial pero necesita ser evaluado nuevamente, esta reunión es importante. Por lo general, se hace cada tres años para revisar las necesidades del estudiante y determinar si aún necesita ayuda especial en la escuela. Recuerde que esta reunión no se puede combinar con otros tipos de reuniones, como las de revisión del plan. Se trata de asegurarse de que el estudiante reciba el apoyo adecuado en la escuela.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25)

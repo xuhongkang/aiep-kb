@@ -1,4 +1,0 @@
-# Emergency Conditions
-Emergency Conditions: An Emergency Conditions Provisions Plan is a plan that schools put in place for special situations, like emergencies. It helps decide how to continue special education services during unexpected events, like school closures. This plan does not change the school's regular offer of special education during normal days. It is used only during emergencies to make sure students still get the help they need. Remember, this plan is not the same as the "stay-put" rule that keeps services the same during disagreements. The plan does not need a signature from parents, but it must be filled out completely.
-
-You can find more about this at: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=36](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=36)

@@ -1,4 +1,0 @@
-# Informe de progreso
-Informe de progreso: Un informe de progreso es como una libreta de calificaciones que muestra qué tan bien le está yendo a su hijo en la escuela. Le indica si está mejorando en áreas como la lectura o las matemáticas, según lo establecido en su Plan de Educación Individualizado (IEP). Estos informes se le deben entregar con regularidad, al igual que las boletas de calificaciones para otros niños, para mostrar cómo su hijo avanza hacia sus metas. Es importante que hables con frecuencia con los maestros y el personal de la escuela de tu hijo para asegurarte de que están progresando correctamente. Si le preocupa el progreso de su hijo, puede solicitar una reunión para hablar sobre sus inquietudes con la escuela.
-
-Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=13](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=13)

@@ -1,4 +1,0 @@
-# Libertad condicional
-Libertad condicional: La libertad condicional es un período en el que un estudiante con necesidades especiales puede tener límites en sus actividades escolares debido a problemas de conducta. Durante la libertad condicional, la escuela debe ayudar al estudiante a permanecer en el programa escolar regular y a seguir trabajando para alcanzar las metas establecidas en su Plan Educativo Individualizado (IEP). Si el estudiante se mete en problemas graves, es posible que lo asignen temporalmente a un programa escolar diferente. Si los padres no están de acuerdo con alguna decisión tomada por el equipo del IEP, pueden solicitar una revisión legal rápida.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=36](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=36)

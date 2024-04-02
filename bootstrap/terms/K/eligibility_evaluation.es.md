@@ -1,4 +1,0 @@
-# Evaluación de elegibilidad
-Evaluación de elegibilidad: La evaluación de elegibilidad es una reunión para decidir si un estudiante aún necesita servicios de educación especial. Se lleva a cabo cada tres años. El equipo revisará los resultados de la evaluación y elaborará un nuevo plan. Es importante para asegurarse de que el estudiante reciba la ayuda adecuada. Si es necesario realizar más evaluaciones, el equipo elaborará un plan para recopilar más información. Si el equipo decide que no es necesario realizar más evaluaciones, explicará el motivo en la reunión. Es importante que los padres participen en estas conversaciones.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25)

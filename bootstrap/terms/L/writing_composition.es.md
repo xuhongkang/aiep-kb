@@ -1,4 +1,0 @@
-# Composición de escritura
-Composición de escritura: Un plan educativo individualizado, o IEP, es un plan especial para los niños que necesitan ayuda adicional en la escuela. El plan lo elabora un equipo de maestros, padres y otro personal de la escuela. Incluye metas que el niño debe alcanzar, como mejorar sus habilidades de lectura o escritura. El IEP también enumera los servicios especiales que recibirá el niño, como tutoría adicional o terapia del habla. El objetivo del IEP es ayudar al niño a aprender y tener éxito en la escuela.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=27](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=27)

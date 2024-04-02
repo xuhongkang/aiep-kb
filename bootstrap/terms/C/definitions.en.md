@@ -1,6 +1,0 @@
-# Definitions
-Definitions: An Individualized Education Plan (IEP) is like a special plan for your child at school. It shows how your child is doing in school right now, any changes to help them learn better (like extra time or different seating), goals for your child, and how the school will check if your child is making progress. It also includes any changes to what your child is expected to learn, how your child will take tests, participate in regular classes, and join school activities.
-
-The IEP will also tell you what special services your child will get, like special education or therapy, and when these services will start, how often they will happen, and how long they will last. For high school students, there is an extra plan attached to the IEP to help them plan for their future as adults. The IEP process involves meetings where everyone talks about your child's needs, strengths, and how to help them succeed in school.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2)

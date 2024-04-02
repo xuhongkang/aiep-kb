@@ -1,4 +1,0 @@
-# Controles de comprensión
-Controles de comprensión: Cuando los maestros quieren evaluar las habilidades de un estudiante, primero necesitan el permiso de los padres o tutores. Los padres pueden decidir si el estudiante recibirá alguna ayuda especial durante el examen, por ejemplo, utilizar diferentes formas de responder a las preguntas o disponer de más tiempo para terminar. Los padres también deben aceptar que la escuela use su seguro médico si el estudiante lo necesita. Es importante hablar sobre qué es lo mejor para el estudiante durante el examen y si es necesario hacer algún cambio para ayudarlo a rendir al máximo.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=50)

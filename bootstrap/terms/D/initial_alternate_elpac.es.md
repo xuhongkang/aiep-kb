@@ -1,4 +1,0 @@
-# ELPAC alternativo inicial
-ELPAC alternativo inicial: Un ELPAC alternativo inicial es un examen especial para los estudiantes que necesitan diferentes maneras de demostrar lo que saben debido a desafíos como las discapacidades. El equipo de los estudiantes decide si deben realizar este examen y qué apoyo o cambios podrían necesitar para dar lo mejor de sí mismos. Es importante elegir los apoyos adecuados, como reducir el ruido o facilitar la comunicación, para ayudar al estudiante a tener éxito. Esta prueba es diferente de la prueba ELPAC regular que se realiza a los estudiantes de inglés para ver qué tan bien entienden y usan el inglés.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=150](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=150)

@@ -1,4 +1,0 @@
-# District of Residence
-District of Residence: District of Residence refers to the district where a student lives. It's important for the school to know this information to provide the right support and services. The District of Residence could be where the student's parents or guardians live, or it could be a different district in certain situations, like if the student attends a charter school or is in a specific program. Knowing the District of Residence helps make sure the student gets the help they need at school.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=29](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=29)

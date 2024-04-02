@@ -1,4 +1,0 @@
-# Hearing Date: Pass, Fail, Other
-Hearing Date: Pass, Fail, Other: The "Hearing Date" is about deciding if something passed or failed based on a fair process. It means you have certain rights during the hearing, like having a knowledgeable person preside over the meeting, the right to have someone with you who knows about special education laws, and the right to present evidence and arguments. You can also ask questions to witnesses and receive a written or electronic record of the hearing. You have the right to request an extension, have your child present, and choose if the hearing is public or private. The other party must inform you about the issues and proposed solutions before the hearing.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117)

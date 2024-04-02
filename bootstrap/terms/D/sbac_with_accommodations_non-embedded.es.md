@@ -1,4 +1,0 @@
-# SBAC con adaptaciones no integradas
-SBAC con adaptaciones no integradas: El SBAC con adaptaciones no integradas significa que su hijo realizará el examen del Smarter Balanced Assessment Consortium (SBAC) con un poco de ayuda adicional, pero no incluido directamente en el examen en sí. Esta ayuda adicional podría consistir en disponer de más tiempo para responder a las preguntas, utilizar dispositivos de asistencia o hacer que alguien lea las preguntas en voz alta. Esto es para asegurarse de que su hijo pueda demostrar en el examen lo que sabe y lo que puede hacer. Si tiene preguntas al respecto, puede hablar con el equipo escolar de su hijo.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=48](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=48)

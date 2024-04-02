@@ -1,4 +1,0 @@
-# Written Notification of Protections Available When LEA Requests to Access Medi-Cal Benefits
-Written Notification of Protections Available When LEA Requests to Access Medi-Cal Benefits: The written notification is a message that tells you that your child's school will ask for your permission to use your child's Medi-Cal benefits to pay for special education services. If you agree, the school can access the benefits, but if you say no, the school still has to give your child all the special education services they need for free. Your permission is valid for one year and can be renewed annually. The school cannot make you sign up for Medi-Cal or make you pay any extra money for your child's services. You also have the right to refuse to sign the permission form.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=74](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=74)

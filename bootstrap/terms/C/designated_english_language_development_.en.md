@@ -1,4 +1,0 @@
-# Designated English Language Development (Designated ELD)
-Designated English Language Development (Designated ELD): Designated English Language Development (Designated ELD) is special English learning help for students who are learning English. It's a type of English class that helps students get better at speaking and understanding English. This type of class is important for students who are still learning English and need extra help. Students can get Designated ELD in either their regular classes or special education classes. It's designed to help students improve their English skills no matter what level they are at.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51)

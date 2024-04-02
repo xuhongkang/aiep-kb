@@ -1,4 +1,0 @@
-# Reconocimientos de padres y estudiantes adultos
-Reconocimientos de padres y estudiantes adultos: Estos formularios son como cartas que informan a los padres o a los estudiantes adultos sobre los cambios en la educación de sus hijos. También ofrecen opciones para distintos tipos de diplomas o certificados. Los formularios deben completarse con el nombre del estudiante, las fechas y los motivos de la decisión tomada por el distrito escolar. También hay secciones en las que los padres deben dar su consentimiento para cosas como las evaluaciones o el acceso a los beneficios de salud. Es importante leer y entender estos formularios antes de firmarlos.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=78](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=78)

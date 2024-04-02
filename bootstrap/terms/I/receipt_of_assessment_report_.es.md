@@ -1,4 +1,0 @@
-# Recepción del informe de evaluación (si corresponde)
-Recepción del informe de evaluación (si corresponde): El informe de recepción del informe de evaluación es un documento que muestra información sobre las evaluaciones realizadas para un estudiante. Incluye detalles como el nombre del estudiante, la fecha de nacimiento y las evaluaciones utilizadas para comprender sus necesidades. Este informe es importante para ver si el estudiante necesita servicios de educación especial y si es necesario hacer algún cambio en su plan actual. Ayuda al equipo a decidir si el estudiante aún reúne los requisitos para recibir educación especial y servicios relacionados en función de su desempeño y sus necesidades.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=112](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=112)

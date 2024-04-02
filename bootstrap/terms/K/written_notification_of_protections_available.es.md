@@ -1,4 +1,0 @@
-# Notificación por escrito de las protecciones disponibles
-Notificación por escrito de las protecciones disponibles: Cuando el distrito escolar quiera hacer cambios en los servicios de educación especial de su hijo, primero debe informárselo por escrito. Este aviso por escrito explica qué cambios se proponen y por qué. También incluye información sobre cualquier otra opción considerada y los motivos para rechazarla. El aviso también mencionará cualquier evaluación o informe utilizado para tomar la decisión. Si tiene alguna pregunta, puede comunicarse con el departamento de educación especial del distrito escolar de su hijo para obtener más información.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=139](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=139)

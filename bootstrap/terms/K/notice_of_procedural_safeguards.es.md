@@ -1,4 +1,0 @@
-# Aviso de garantías procesales
-Aviso de garantías procesales: Una notificación de garantías procesales es un documento que explica los derechos que tienen los padres en lo que respecta a la educación de sus hijos. Les informa a los padres sobre las normas y protecciones que tienen en virtud de una ley llamada IDEA. Esta ley garantiza que los niños con discapacidades reciban la ayuda que necesitan en la escuela. El aviso también explica cómo los padres pueden participar en la toma de decisiones sobre la educación de sus hijos. En general, es una guía que ayuda a los padres a entender y proteger los derechos de sus hijos en el sistema de educación especial.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=91](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=91)

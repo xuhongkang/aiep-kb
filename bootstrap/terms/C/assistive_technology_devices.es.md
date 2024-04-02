@@ -1,4 +1,0 @@
-# Dispositivos de tecnología de asistencia
-Dispositivos de tecnología de asistencia: Los dispositivos de tecnología de asistencia son herramientas o aparatos que ayudan a los estudiantes con necesidades especiales a aprender mejor. Estos dispositivos ayudan a alcanzar las metas educativas, como facilitar a los estudiantes la realización de las tareas escolares. Algunos ejemplos de dispositivos de tecnología de asistencia son las computadoras portátiles con software especial, programas de conversión de voz a texto o herramientas que ayudan a leer o escribir. Los padres y los maestros trabajan juntos para decidir qué dispositivos serían los mejores para cada estudiante a fin de ayudarlo a tener éxito en la escuela.
-
-Puedes encontrar más sobre esto en: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=9)

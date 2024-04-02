@@ -1,4 +1,0 @@
-# No dé su consentimiento a la evaluación propuesta
-No dé su consentimiento a la evaluación propuesta: «No dé su consentimiento» significa que puede rechazar el plan del distrito escolar de evaluar o evaluar a su hijo. Tiene derecho a negarse a permitir que hagan la evaluación. Tienen que decirle qué pruebas quieren hacerse y por qué. Si no está de acuerdo, puede decir que no. Este formulario explica qué pruebas quieren hacer, quién las realizará y por qué. Si no quiere que le hagan la prueba a su hijo, puede indicarlo en este formulario. Es importante que comprenda sus derechos y tome las decisiones que sean mejores para su hijo».
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=76](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=76)

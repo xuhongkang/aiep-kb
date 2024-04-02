@@ -1,4 +1,0 @@
-# Herramientas de aprendizaje personalizadas
-Herramientas de aprendizaje personalizadas: Un Programa de Educación Individualizado (IEP) es un plan especial diseñado para que su hijo en la escuela lo ayude a aprender mejor. Está diseñado especialmente para su hijo y analiza lo que necesita para que le vaya bien en la escuela. El plan se crea con la ayuda de usted como padre, del equipo escolar y, a veces, de un médico. Es como un contrato en el que se indica qué tipo de ayuda recibirá su hijo y cómo la recibirá. El plan puede cambiar a medida que cambien las necesidades de su hijo, y la escuela necesita su permiso para iniciarlo. El IEP es una forma de garantizar que su hijo reciba la ayuda que necesita para tener éxito en la escuela.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=57](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=57)

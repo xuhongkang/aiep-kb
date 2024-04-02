@@ -1,4 +1,0 @@
-# Physical Education
-Physical Education: Physical Education is when students participate in activities that help them move their bodies, like running, jumping, and playing sports. It can be part of an Individualized Education Program (IEP) where a special plan is made for students who need extra help in school. Physical therapy may be included if a student has trouble with movements like coordination or balance. This therapy is done by a trained therapist who helps improve motor skills and mobility. The goal is to make sure the student can participate in physical activities and feel comfortable in their environment.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=134](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=134)

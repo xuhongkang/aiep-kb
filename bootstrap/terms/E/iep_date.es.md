@@ -1,4 +1,0 @@
-# Fecha del IEP
-Fecha del IEP: La fecha del IEP es la fecha de una reunión en la que un grupo de personas decide un plan para ayudar a un estudiante que necesita ayuda adicional en la escuela. Esta reunión se celebra cuando un estudiante es remitido por primera vez a los servicios de educación especial o cuando es necesario elaborar un nuevo plan. La fecha del IEP puede cambiar si se determina que el estudiante reúne los requisitos para recibir ayuda, deja de recibirla y vuelve a necesitarla. Es importante asegurarse de que toda la información del plan sea correcta y de que todos estén de acuerdo con las decisiones tomadas durante la reunión.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=117)

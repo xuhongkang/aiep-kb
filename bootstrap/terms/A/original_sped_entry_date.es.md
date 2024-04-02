@@ -1,4 +1,0 @@
-# Fecha de entrada original de SpeD
-Fecha de entrada original de SpeD: La fecha original de ingreso al SPed es la fecha en que el equipo de la escuela y los padres acordaron que el estudiante debería recibir oficialmente los servicios de educación especial. Esta fecha es muy importante y nunca cambiará, incluso si el estudiante se va y luego regresa para recibir educación especial nuevamente. Es el punto de partida del viaje de educación especial del estudiante y permanece igual pase lo que pase. Esta fecha se puede encontrar en el expediente del estudiante y debe ser la fecha en la que los padres acepten el Plan de Educación Individualizado (IEP) por primera vez.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=31](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=31)

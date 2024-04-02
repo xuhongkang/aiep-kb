@@ -1,4 +1,0 @@
-# Authorization for Medi-Cal Billing
-Authorization for Medi-Cal Billing: "Authorization for Medi-Cal Billing" is about giving permission for the school to use your child's Medi-Cal insurance to pay for any health-related special education services they may need. If you don't give permission, the school still has to provide these services for free. Your consent is good for one year and can be renewed each year at the IEP meeting. The school cannot require you to sign up for any programs or pay any out-of-pocket expenses related to using your child's Medi-Cal benefits for special education services."
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=9](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=9)

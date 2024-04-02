@@ -1,4 +1,0 @@
-# Residencia
-Residencia: Residencia significa dónde vive el estudiante y dónde va a la escuela. Puede ser en el mismo distrito donde viven los padres o en un distrito diferente si existen circunstancias especiales. El distrito en el que el estudiante recibe los servicios de educación especial se denomina «Distrito de Responsabilidad en materia de Educación Especial» y puede depender del lugar donde vive el estudiante o de otros factores, como asistir a una escuela autónoma o estar en un centro específico. La «escuela residente» es simplemente la escuela del vecindario a la que normalmente iría el estudiante.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=142](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=142)

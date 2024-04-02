@@ -1,4 +1,0 @@
-# terapeuta ocupacional
-terapeuta ocupacional: Un terapeuta ocupacional es alguien que ayuda a los estudiantes a mejorar sus habilidades para tener un buen desempeño en la escuela. Esto incluye cosas como sentarse correctamente, cuidarse, usar dispositivos que los ayuden en la escuela y más. El terapeuta puede trabajar con los estudiantes de manera individual, en la escuela o en casa, y puede ayudarlos con diferentes habilidades, como mover el cuerpo, pensar con claridad, jugar con los demás y realizar tareas que requieren movimientos pequeños, como escribir. Estos servicios se brindan como parte de un plan llamado Programa de educación individualizado (IEP) para ayudar a los estudiantes a obtener mejores resultados en la escuela.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=131](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=131)

@@ -1,4 +1,0 @@
-# Declinación de los servicios
-Declinación de los servicios: Cuando se rechazan los servicios de educación especial, significa que el estudiante no recibirá ciertos apoyos o programas que se ofrecieron originalmente para ayudarlo en la escuela. Esta decisión puede tomarla el equipo que crea el Plan Educativo Individualizado (IEP) del estudiante. El equipo podría decidir que el estudiante ya no necesita un servicio en particular o que puede que ya no sea el más adecuado para él. Es importante analizar estos cambios con la escuela para garantizar que las necesidades del estudiante se satisfagan adecuadamente.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=85](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=85)

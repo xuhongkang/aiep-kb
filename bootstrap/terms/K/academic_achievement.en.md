@@ -1,4 +1,0 @@
-# Academic Achievement
-Academic Achievement: Academic Achievement means how well your child is doing in school. It looks at things like reading, math, and other skills they need to learn. The IEP team checks if there's a big difference between what your child can do and what they are actually doing in school. They look at test scores, information from you as the parent, and feedback from teachers about how your child is doing in the classroom. They also consider your child's age and other important details. The team wants to make sure your child is getting the right support to improve their learning.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=17](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=17)

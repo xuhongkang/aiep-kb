@@ -1,4 +1,0 @@
-# Progress Report
-Progress Report: A progress report is like a report card that shows how well your child is doing in school. It tells you if they are improving in areas like reading or math, as set out in their Individualized Education Plan (IEP). These reports should be given to you regularly, just like report cards for other kids, to show how your child is progressing towards their goals. It's important to talk to your child's teachers and school staff often to make sure they are making the right progress. If you're worried about your child's progress, you can ask for a meeting to discuss your concerns with the school.
-
-You can find more about this at: [https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=13](https://drive.google.com/file/d/1au51uKAY-6t1Sabx47W3eCJkBBDn10ns/view#page=13)

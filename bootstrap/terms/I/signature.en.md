@@ -1,4 +1,0 @@
-# Signature
-Signature: Signature is your name written on a paper to show that you agree with something. After a meeting about your child's education plan, you may be asked to sign a paper to show you were at the meeting, but signing it doesn't mean you agree with everything in the plan. If there are parts of the plan you don't agree with, you can write down what you disagree with on the same paper where you sign. If you only agree with some parts, you can let the school know so they can start those services for your child. Once you sign the paper, you give permission for the school to help your child with special education.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=80)

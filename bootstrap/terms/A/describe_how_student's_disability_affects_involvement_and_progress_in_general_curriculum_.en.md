@@ -1,4 +1,0 @@
-# Describe How Student's Disability Affects Involvement and Progress in General Curriculum (Or for Preschoolers, Participation in Appropriate Activities)
-Describe How Student's Disability Affects Involvement and Progress in General Curriculum (Or for Preschoolers, Participation in Appropriate Activities): When a student has a disability, it can make it harder for them to learn and keep up with their classmates in school. This might mean they struggle with certain subjects or activities. For example, they might forget what they learned after a school break or have a hard time learning new skills. They may need extra help or special services to succeed in school. The school team will figure out the best plan for the student based on their needs and abilities.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=83](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=83)

@@ -1,4 +1,0 @@
-# El comportamiento impide el aprendizaje
-El comportamiento impide el aprendizaje: Cuando el comportamiento de un estudiante se interpone en su aprendizaje, puede ser una barrera para su educación. El equipo del IEP analizará la gravedad de este problema, ya sea moderado, grave o extremo. Observarán con qué frecuencia se produce el comportamiento y qué tan intenso es. Luego, elaborarán un plan para ayudar al estudiante a mejorar su comportamiento para que pueda aprender mejor. Este plan podría incluir establecer metas para reemplazar la conducta problemática por una más positiva y brindar apoyo y estrategias de enseñanza para ayudar al estudiante a tener éxito.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=82](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=82)

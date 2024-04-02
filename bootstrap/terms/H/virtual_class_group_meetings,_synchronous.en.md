@@ -1,4 +1,0 @@
-# Virtual Class/Group Meetings, Synchronous
-Virtual Class/Group Meetings, Synchronous: Virtual Class/Group Meetings, Synchronous are when everyone meets at the same time in a virtual space, like online or on the computer. It's like having a video call with your child's school and other important people to talk about your child's Individualized Education Plan (IEP). During these meetings, you can discuss, create, and review your child's IEP to make sure it meets their needs. It's really important to follow the rules of these meetings and work together with the school to plan your child's special education experience at school.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=6](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=6)

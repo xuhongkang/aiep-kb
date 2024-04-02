@@ -1,4 +1,0 @@
-# Authorization to Release Student Information for Billing Medi-Cal/Medicaid
-Authorization to Release Student Information for Billing Medi-Cal/Medicaid: Authorization to Release Student Information for Billing Medi-Cal/Medicaid is a form that allows the school to share your child's records with Medi-Cal/Medicaid to pay for their special education and related services. This form needs to be signed by either the student or their representative, and it specifies what information can be shared and for what purpose. Make sure the form is filled out completely and signed to ensure your child receives the necessary services.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=72](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=72)

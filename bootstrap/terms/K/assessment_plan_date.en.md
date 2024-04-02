@@ -1,4 +1,0 @@
-# Assessment Plan Date
-Assessment Plan Date: The Assessment Plan Date is the specific day when the form for evaluating your child is being filled out. This form is important because it helps the school decide how to assess your child's educational needs. The school needs to provide you with this plan before they start any assessments and they need your permission before they can begin. The date on this form is crucial because it shows when the assessment process officially started. So, it's like marking the calendar for when things get going to help your child in school.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=11](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=11)

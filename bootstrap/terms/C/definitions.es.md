@@ -1,6 +1,0 @@
-# Definiciones
-Definiciones: Un plan educativo individualizado (IEP) es como un plan especial para su hijo en la escuela. Muestra cómo le está yendo a su hijo en la escuela en este momento, cualquier cambio que lo ayude a aprender mejor (por ejemplo, tiempo extra o asientos diferentes), las metas para su hijo y la manera en que la escuela verificará si su hijo está progresando. También incluye cualquier cambio en lo que se espera que aprenda su hijo, en la forma en que su hijo realizará los exámenes, participará en las clases regulares y se unirá a las actividades escolares.
-
-El IEP también le indicará qué servicios especiales recibirá su hijo, como educación especial o terapia, y cuándo comenzarán a prestarse estos servicios, con qué frecuencia y cuánto durarán. Para los estudiantes de secundaria, hay un plan adicional adjunto al IEP para ayudarlos a planificar su futuro como adultos. El proceso del IEP incluye reuniones en las que todos hablan sobre las necesidades y los puntos fuertes de su hijo y sobre cómo ayudarlo a tener éxito en la escuela.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=2)

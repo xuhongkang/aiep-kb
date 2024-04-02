@@ -1,4 +1,0 @@
-# Desarrollo del idioma inglés designado (ELD designado)
-Desarrollo del idioma inglés designado (ELD designado): Designated English Language Development (ELD designado) es una ayuda especial para el aprendizaje del inglés para los estudiantes que están aprendiendo inglés. Es un tipo de clase de inglés que ayuda a los estudiantes a hablar y entender mejor el inglés. Este tipo de clase es importante para los estudiantes que todavía están aprendiendo inglés y necesitan ayuda adicional. Los estudiantes pueden obtener la designación ELD en sus clases regulares o en sus clases de educación especial. Está diseñado para ayudar a los estudiantes a mejorar sus habilidades de inglés sin importar el nivel en el que se encuentren.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51)

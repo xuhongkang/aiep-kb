@@ -1,4 +1,0 @@
-# Next Eligibility Evaluation
-Next Eligibility Evaluation: The "Next Eligibility Evaluation" is a meeting that helps decide if a student still qualifies for special education services. If a student has stopped receiving special education but needs to be evaluated again, this meeting is important. It's usually done every three years to review a student's needs and determine if they still need special help at school. Remember, this meeting cannot be combined with other types of meetings like Plan Reviews. It's all about making sure the student is getting the right support at school.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=25)

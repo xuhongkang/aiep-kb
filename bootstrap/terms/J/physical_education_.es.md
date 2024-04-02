@@ -1,4 +1,0 @@
-# Educación Física (PE)
-Educación Física (PE): La educación física (PE) es cuando un estudiante realiza actividades y ejercicios para mejorar sus movimientos corporales y sus habilidades de coordinación. Estas actividades forman parte de un plan llamado Programa de educación individualizado (IEP, por sus siglas en inglés) para apoyar las necesidades de aprendizaje del estudiante. La educación física puede incluir cosas como aprender a mantener el equilibrio, a moverse y a usar herramientas que lo ayuden a moverse. Los ejercicios se pueden hacer en diferentes lugares, como el aula, en casa, en grupo o solos. El objetivo es ayudar al estudiante a mejorar sus habilidades y destrezas físicas.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=52](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=52)

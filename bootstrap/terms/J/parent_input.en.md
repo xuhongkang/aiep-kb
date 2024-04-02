@@ -1,4 +1,0 @@
-# Parent Input
-Parent Input: Parent input is information provided by a parent about their child's needs and educational performance during meetings about their child's special education services. Parents can share their thoughts on whether they believe their child still has a disability that requires special education services, as well as any new information about their child's performance in school, at home, or in the community. Parents also have the right to request meetings to discuss their child's Individualized Education Program and participate in the planning process. This input is important for making sure the IEP team understands the child's needs and can create a plan that best supports the child's learning.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=6](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=6)

@@ -1,4 +1,0 @@
-# Service Delivery Method(s)
-Service Delivery Method(s): Service Delivery Method(s) refers to how your child will receive the support and services outlined in their Individualized Education Plan (IEP). The IEP team will decide things like how often, how long, and where these services will take place. It could be services like special instruction, individual and small group instruction, or related services like speech therapy or adapted physical education. The team will also determine if services will be provided one-on-one or in a group, the location where services will happen (like in a regular classroom or a separate class), and how long each session will last. This information is important to ensure your child gets the help they need to succeed in school.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=84](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=84)

@@ -1,4 +1,0 @@
-# Preschool Program Setting
-Preschool Program Setting: Preschool Program Setting is where your child attends school if they are between 3 to 5 years old or in TK/K (4 years old). It decides the type of school setting your child will be in. The options include Home, Regular early childhood program or kindergarten, Separate class, Service Provider Location, Separate school, and Residential facility. You need to choose the best setting that suits your child's needs during the IEP Meeting. Remember that only one Program Setting field can be filled for each IEP meeting. If your child will switch from a preschool setting to a school-age setting, use the Projected Program Setting field.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=93](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=93)

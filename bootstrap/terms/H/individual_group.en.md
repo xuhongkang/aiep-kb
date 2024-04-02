@@ -1,4 +1,0 @@
-# Individual/Group
-Individual/Group: Individual/Group services refer to the different ways that your child can receive support as outlined in their Individualized Education Program (IEP). These services can be provided either one-on-one (individual) or in a small group setting (group). For example, your child may receive physical therapy individually or in a group with other children. The decision on whether your child receives services individually or in a group depends on their unique needs and what is best for their learning.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=12](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=12)

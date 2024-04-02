@@ -1,4 +1,0 @@
-# Receptive/Expressive Language, Pragmatics, Academics--Reading/Math
-Receptive/Expressive Language, Pragmatics, Academics--Reading/Math: Receptive/Expressive Language refers to how well your child understands and uses words. Pragmatics is about social skills and how your child communicates with others. Academics like Reading and Math focus on school subjects. These areas are important to make sure your child is learning and growing in all aspects. The IEP goals should be realistic and based on what your child needs to succeed in school. It's helpful to have clear goals for different areas like reading, math, and social skills to keep things manageable.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=51)

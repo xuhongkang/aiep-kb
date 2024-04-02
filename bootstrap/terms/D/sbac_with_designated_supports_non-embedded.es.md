@@ -1,4 +1,0 @@
-# SBAC con soportes designados no integrados
-SBAC con soportes designados no integrados: El SBAC con apoyos designados no integrados significa que cuando un estudiante realice la evaluación estatal, recibirá ayuda o herramientas específicas que no están integradas en el examen en sí. Estos apoyos son independientes del examen y se brindan al estudiante para ayudarlo a dar lo mejor de sí mismo. Esto podría incluir cosas como el uso de dispositivos de asistencia, diferentes formas de responder o ayudas visuales. Es importante tener en cuenta que estos apoyos no forman parte de las preguntas del examen, sino que están ahí para ayudar al estudiante durante la evaluación.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=48](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=48)

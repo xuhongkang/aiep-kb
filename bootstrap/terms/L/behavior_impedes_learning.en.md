@@ -1,4 +1,0 @@
-# Behavior Impedes Learning
-Behavior Impedes Learning: Behavior that gets in the way of learning means actions or things a student does that make it hard for them to learn. This could be things like being disruptive in class, not paying attention, or having trouble following instructions. It's important to come up with a plan, called an Individualized Education Plan or IEP, to help the student improve their behavior so they can learn better. This plan includes setting goals for the student, teaching them new ways to behave, and providing rewards for good behavior. The IEP team will work together to figure out the best strategies and supports to help the student succeed in school.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=105](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=105)

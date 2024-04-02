@@ -1,4 +1,0 @@
-# ELPAC sumativo: puntuación general, puntuación/nivel de lenguaje oral, puntuación/nivel de lenguaje escrito
-ELPAC sumativo: puntuación general, puntuación/nivel de lenguaje oral, puntuación/nivel de lenguaje escrito: El ELPAC sumativo es un examen que se les da a los estudiantes de inglés para medir qué tan bien saben y usan el inglés. Incluye puntajes para el lenguaje oral y el lenguaje escrito. La puntuación general muestra qué tan bien le está yendo al estudiante en inglés. La puntuación del lenguaje oral se centra en las habilidades de hablar y escuchar, mientras que la puntuación del lenguaje escrito analiza las habilidades de lectura y escritura. Estos puntajes ayudan a los maestros a comprender el dominio del idioma inglés del estudiante.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=49)

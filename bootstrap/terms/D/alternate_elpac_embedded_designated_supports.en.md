@@ -1,4 +1,0 @@
-# Alternate ELPAC Embedded Designated Supports
-Alternate ELPAC Embedded Designated Supports: Alternate ELPAC Embedded Designated Supports are extra help given to students who are learning English. The supports help them understand their schoolwork better, especially if their English skills are still developing. These supports may include using their primary language to help them learn in different subjects. It's important for the student's team to decide where this extra English learning support will happen, ideally in a regular classroom. These supports are designed to make sure the student can access and understand the curriculum, regardless of their English language level.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=150](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=150)

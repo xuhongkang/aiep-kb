@@ -1,4 +1,0 @@
-# Summative ELPAC
-Summative ELPAC: The Summative ELPAC is a test that helps measure how well a student who is learning English is doing in the language. It's like a big test that shows if the student is making progress in understanding and using English. The student either takes the Initial ELPAC or Summative ELPAC, not both. The student might get certain supports or help during the test to make it fair for them. If the student needs extra help, the school team can choose specific supports or accommodations. If the student does well on the test, it helps show their growth in English.
-
-You can find more about this at: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=0](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=0)

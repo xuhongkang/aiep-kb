@@ -1,4 +1,0 @@
-# Nivel de consentimiento: entiendo que mi hijo no es elegible para recibir educación especial
-Nivel de consentimiento: entiendo que mi hijo no es elegible para recibir educación especial: Este formulario le pregunta si entiende que su hijo no es elegible para los servicios de educación especial. Si está de acuerdo con esto, debe firmar con su nombre y la fecha. Esto significa que su hijo no recibirá ayuda de educación especial por parte de la escuela. Asegúrese de leer y entender todo lo que contiene el formulario antes de firmarlo.
-
-Puedes encontrar más sobre esto en: [https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=19](https://seisprodtableswest.blob.core.windows.net/trainingmanual-storage/2416f43c-e7b7-4e28-a796-6b9789828c18.pdf#page=19)

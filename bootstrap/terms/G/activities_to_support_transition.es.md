@@ -1,4 +1,0 @@
-# Actividades para apoyar la transición
-Actividades para apoyar la transición: Las actividades de apoyo a la transición son cosas que pueden ayudar a su hijo a prepararse para pasar de la escuela a otras actividades, como la universidad, el trabajo o la vida por su cuenta. Algunos ejemplos de estas actividades incluyen ayudar a su hijo a aprender a presupuestar su dinero, a hacer las tareas básicas de la casa, a explorar diferentes pasatiempos, como la música o el arte, y a buscar oportunidades para ser voluntario en la comunidad. Estas actividades están diseñadas para ayudar a su hijo a adquirir habilidades y experiencias importantes a fin de prepararlo para la vida después de la escuela secundaria.
-
-Puedes encontrar más sobre esto en: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=37](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=37)

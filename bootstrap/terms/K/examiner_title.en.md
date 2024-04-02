@@ -1,4 +1,0 @@
-# Examiner Title
-Examiner Title: This is a long explanation! It's all about making sure the school follows the rules when testing your child or changing their education plan. The school needs your permission for any special testing not part of the usual tests. They'll send you a plan with details and ask for your OK. The plan says why they want to test your child and what kind of test they'll do. They also need your permission to use any health insurance. The test will look at different areas like school work, behaviors, emotions, and more. Different professionals like teachers or psychologists may do the testing. It's important for you to understand and agree before any testing happens.
-
-You can find more about this at: [https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=112](https://rcselpa.org/uploads/files/files/IEP%20Manual%2007-22.pdf#page=112)
