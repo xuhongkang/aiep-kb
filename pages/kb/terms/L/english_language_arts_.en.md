@@ -1,5 +1,5 @@
 # English Language Arts (ELA)
-English Language Arts (ELA): Sure! You asked about English Language Arts (ELA) in the context of an Individualized Education Program (IEP). ELA refers to reading, writing, speaking, and listening skills in English class. In the IEP, if a student is an English Learner, they may need extra help with understanding lessons in English across different subjects. This support can be provided in either the general education or special education setting.
+English Language Arts (ELA): You asked about English Language Arts (ELA) in the context of an Individualized Education Program (IEP). ELA refers to reading, writing, speaking, and listening skills in English class. In the IEP, if a student is an English Learner, they may need extra help with understanding lessons in English across different subjects. This support can be provided in either the general education or special education setting.
 
 For English Learners, it's important to have goals that address their English language development. These goals should be measurable and related to the student's current skills. The IEP team will decide on objectives to help the student progress in their learning. It's also crucial to consider transition planning for students who are 16 years or older.
 

@@ -1,5 +1,5 @@
 # Notice of Action/Prior Written Notice
-Notice of Action/Prior Written Notice: Sure! A Notice of Action, also known as a Prior Written Notice, is a written notification that schools have to give parents whenever they want to do something related to a child's special education services. This notice must explain in simple terms: 
+Notice of Action/Prior Written Notice: A Notice of Action, also known as a Prior Written Notice, is a written notification that schools have to give parents whenever they want to do something related to a child's special education services. This notice must explain in simple terms: 
 
 1. What the school wants to do or not do for the child.
 2. Why the school is making or refusing this decision.

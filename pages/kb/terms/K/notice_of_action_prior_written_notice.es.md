@@ -1,5 +1,5 @@
 # Aviso de acción/Aviso previo por escrito
-Aviso de acción/Aviso previo por escrito: ¡Claro! Una notificación de acción, también conocida como notificación previa por escrito, es una notificación por escrito que las escuelas deben entregar a los padres cuando quieren hacer algo relacionado con los servicios de educación especial de un niño. Este aviso debe explicar en términos sencillos: 
+Aviso de acción/Aviso previo por escrito: Una notificación de acción, también conocida como notificación previa por escrito, es una notificación por escrito que las escuelas deben entregar a los padres cuando quieren hacer algo relacionado con los servicios de educación especial de un niño. Este aviso debe explicar en términos sencillos: 
 
 1. Lo que la escuela quiere hacer o no hacer por el niño.
 2. Por qué la escuela toma o rechaza esta decisión.

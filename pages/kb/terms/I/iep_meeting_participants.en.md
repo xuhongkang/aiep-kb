@@ -1,5 +1,5 @@
 # IEP Meeting Participants
-IEP Meeting Participants: Sure! At an IEP meeting, there are a few people who will be there to talk about your child's education and needs. These people might include: 
+IEP Meeting Participants: At an IEP meeting, there are a few people who will be there to talk about your child's education and needs. These people might include: 
 
 1. You (the parent or guardian)
 2. Teachers who work with your child

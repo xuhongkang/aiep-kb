@@ -1,5 +1,5 @@
 # Participantes de la reunión del IEP
-Participantes de la reunión del IEP: ¡Claro! En una reunión del IEP, habrá algunas personas que estarán presentes para hablar sobre la educación y las necesidades de su hijo. Estas personas pueden incluir: 
+Participantes de la reunión del IEP: En una reunión del IEP, habrá algunas personas que estarán presentes para hablar sobre la educación y las necesidades de su hijo. Estas personas pueden incluir: 
 
 1. Usted (el padre o tutor)
 2. Maestros que trabajan con su hijo
